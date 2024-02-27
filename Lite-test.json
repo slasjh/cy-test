@@ -213,7 +213,7 @@
   //  {"name": "yqk-2", "hosts": ["ydd.vsmql"], "regex": ["video2/slice/hls","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","index0.ts","index1.ts","index2.ts","index3.ts"]},
  
 
-     {"name": "yqk", "hosts": ["yqk88","ydd","yqk66","yqkdd6"], "regex": ["18.4", "15.1666","18.433333","5.000000","3.433333"]},
+     {"name": "yqk", "hosts": ["yqk88","ydd","yqk66","yqkdd6"], "regex": ["18.4", "15.1666","18.433333","5.000000","3.433333","15.166667","0.166667"]},
   {"host": "ydd.vsmql.com", "rule": ["index0.ts","index1.ts","index2.ts","index3.ts","video2/slice/hls"]}, 
   {"host": "ydd.yqk66.com", "rule": ["index0.ts","index1.ts","index2.ts","index3.ts","video2/slice/hls"]}, 
   {"host": "ydd.yqkdd6.com", "rule": ["index0.ts","index1.ts","index2.ts","index3.ts","video2/slice/hls"]}, 
