@@ -81,10 +81,11 @@
 
     {"key": "一起看 ","name": "👫独家①","type": 3,"api": "csp_YQKan",
        "searchable": 1,"quickSearch": 1, "changeable": 1,"ext": "[排序:优质,百度资源,一起看APP,非凡资源,量子,闪电资源,无尽资源,CK,八戒]"},
-{"key": "一起看-饭 ", "name": "👫独家②", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2","ext": "[排序:优质,百度资源,一起看APP,非凡资源,量子,闪电资源,无尽资源,CK,八戒]"},  
+{"key": "一起看-饭 ", "name": "👫独家②", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2", "ext": "[不包含:一起看APP#无尽资源]"},  
   // { "key": "Xinsj","name": "影院①", "type": 3,"api": "csp_Xinsj","searchable": 1,
   // "quickSearch": 1,"changeable": 0,"ext": "https://www.6080yy3.com/"},
- 
+ {"key": "一起看-饭3 ", "name": "👫独家3", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2", "ext": "[不包含:一起看APP,无尽资源]"},  {"key": "一起看-饭4 ", "name": "👫独家4", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2", "ext": "[[排序:优质,百度资源,一起看APP,非凡资源,量子,闪电资源,无尽资源,CK,八戒]"}, 
+ {"key": "一起看-饭4 ", "name": "👫独家4", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2", "ext": "[[排序:优质>百度资源>一起看APP>非凡资源>量子>闪电资源>无尽资源>CK>八戒]"}, 
 
 
 
