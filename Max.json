@@ -720,7 +720,7 @@
       ]
 
     },
-
+ 
         #测试
             {"key":"22","name":"以下接口待测试","type":0,"api":""},
     {"key":"18","name":"请勿相信视频中的任何广告","type":0,"api":""},
@@ -1135,7 +1135,21 @@
         {"key": "csp_XYQHiker_蚂蚁4K","name":"🧲蚂蚁4K(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/XYQHiker/蚂蚁4K.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
         {"key": "csp_XYQHiker_哔嘀影视","name":"🧲哔嘀影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/XYQHiker/哔嘀影视.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
         {"key": "csp_XYQHiker_磁力熊","name":"🧲磁力熊(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/XYQHiker/磁力熊.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
-       
+         {"key":"haiwaikan","name":"海外看┃采集","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1},
+    {"key":"快帆","name":"快帆┃采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
+    {"key":"影图资源","name":"影图资源(官)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+         {
+            "key": "即可",
+            "name": "👋1080P┃即刻",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "嗅探词": ".m3u8",
+                "分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$4",
+                "搜索模式": "0"
+            }
+        },
 
 
 
