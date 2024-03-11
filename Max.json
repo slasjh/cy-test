@@ -1157,7 +1157,17 @@
             "jar": "./二小.jar",
             "changeable": 1
         },
-
+{
+            "key": "T4-yintan",
+            "name": "影探4k",
+            "type": 4,
+            "api": "https://catbox.n13.club/yt.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": true
+},
 
 
 
