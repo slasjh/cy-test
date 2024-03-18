@@ -1241,7 +1241,60 @@
 
     },
 
-
+ {
+            "key": "韩片网",
+            "name": "🌳韩片┃影网",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "数组": "<li class=\"mo-paxs-5px mo-pamd-10px&&</li>",
+                "图片": "data-original=\"&&\"",
+                "标题": "/\">&&</a >",
+                "副标题": "mo-coxs-center\">&&</span>",
+                "简介": "讲述<p>&&</p >",
+                "链接": "href=\"&&\"",
+                "线路数组": "mo-prxs-2px mo-fsxs-16px&&/a>",
+                "线路标题": "</i>&&<",
+                "播放数组": "<ul class=\"mo-movs-item mo-sort-boxs&&</ul>",
+                "搜索url": "https://www.hanpian.tv/search/{wd}-------------/",
+                "分类url": "https://www.hanpian.tv/so/{cateId}/{area}-{by}--{lang}----{catePg}---{year}/",
+                "分类": "电影$movie#电视剧$tv#综艺$variety#动漫片$anime"
+            }
+        },
+ {
+            "key": "高清云影视",
+            "name": "高清云影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "免嗅": "1",
+                "副标题": "pic-text text-right\">&&</span>",
+                "简介": "class=\"col-pd\">&&如果您喜欢",
+                "分类url": "https://www.guangmaoshenye.com/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}/[https://www.guangmaoshenye.com/gain/{cateId}/]",
+                "分类": "理论电影$lilun"
+            }
+        },
+            {
+            "key": "尤物影视",
+            "name": "龙物影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://44.wangyemg9.top/vodtype/{cateId}-{catePg}.html",
+                "直接播放": 1,
+                "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
+                "分类数组": "<a&&</a >",
+                "分类标题": ">&&/a>[不包含:更多]",
+                "分类ID": "/vodtype/&&.html"
+            }
+        },
 
 
 
