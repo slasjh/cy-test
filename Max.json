@@ -166,12 +166,12 @@
             "key": "🔥码上看18哈",
             "name": "🔥码上看18哈",
             "type": 3,
-            "api": "./sites/码上/merge.min.js",
+            "api": "./lib/merge.min.js",
             "searchable": 1,
             "playerType": 2,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./sites/码上/18哈.js"
+            "ext": "https://atomgit.com/lintech/tms/raw/master/source/nightly/sites/码上/18哈.js"
         },
                 {
             "key": "🔥码上看乐鱼",
@@ -182,7 +182,7 @@
             "playerType": 2,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./sites/码上/乐鱼.js"
+            "ext": "https://atomgit.com/lintech/tms/raw/master/source/nightly/sites/码上/乐鱼.js"
         },
         {
             "key": "🔥码上看大师兄",
@@ -193,7 +193,7 @@
             "playerType": 2,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./sites/码上/大师兄.js"
+            "ext": "https://atomgit.com/lintech/tms/raw/master/source/nightly/sites/码上/大师兄.js"
         },
 
         {
