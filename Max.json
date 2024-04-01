@@ -162,7 +162,52 @@
  {"key": "dr_白白", "name": "🔥白白", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/素白白.js"}, 
   {"key": "dr_码上看荐片", "name": "🔥码上看荐片", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/荐片.js"},
   {"key": "dr_码上看低端", "name": "🔥码上看低端", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 1, "filterable": 1, "ext": "./lib/低端影视.js"},
+          {
+            "key": "🔥码上看18哈",
+            "name": "🔥码上看18哈",
+            "type": 3,
+            "api": "./sites/码上/merge.min.js",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./sites/码上/18哈.js"
+        },
+                {
+            "key": "🔥码上看乐鱼",
+            "name": "🔥码上看乐鱼",
+            "type": 3,
+            "api": "./sites/码上/merge.min.js",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./sites/码上/乐鱼.js"
+        },
+        {
+            "key": "🔥码上看大师兄",
+            "name": "🔥码上看大师兄",
+            "type": 3,
+            "api": "./sites/码上/merge.min.js",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./sites/码上/大师兄.js"
+        },
 
+        {
+            "key": "白嫖",
+            "name": "码上👓饭-👻白飘┃无广",
+            "type": 3,
+            "api": "csp_BaiPiao",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.baipiaoys.com:9092/",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711726710301/fan.txt;md5;a94015e02cd9886492add6f9b1705dba"
+        },
         
 #秒播
   
@@ -293,7 +338,24 @@
     //  {"key": "短剧one", "name": "👓cat-🥰one短剧", "type": 3, "api": "csp_Panda", "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb", "ext": "https://d.kstore.space/download/6296/json/短剧.json"}, 
              {"key": "👓猫-💮┃种子短剧", "name": "短剧┃视频", "type": 1, "api": "http://zzdj.cc/api.php/provide/vod"}, 
 
-
+        {
+            "key": "短剧",
+            "name": "码上👓饭-🌈上头┃短剧",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+                {
+            "key": "种子短剧",
+            "name": "码上👓猫-🍒┃短剧┃种子",
+            "type": 3,
+            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+            "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
+            "playerType": 2
+        },
   
 #4K
 {"key": "jar_看完偶", "name": "🔥完偶4k", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹","jar": "./custom_spider.jar;md5;8A3584C3608A5412FB02A769AB3886BB"},
