@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
+  "spider": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "warningText": "X影视友情提示：不要相信视频中广告，爱护家人！！！",
   "lives": [
@@ -19,16 +19,7 @@
    {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"./lib/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"lf_js_search","name":"搜索 | 路飞[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_search3_min.js"},
    {"key": "dr_看动漫", "name": "🔥哔哩动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
-  {
-      "key": "ok", 
-      "name": "👌FREEOK", 
-      "type": 3, 
-      "api": "csp_XBPQ", 
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": "1", 
-      "ext":"./lib/free.json"
-    },
+  //{ "key": "ok",  "name": "👌FREEOK",  "type": 3,  "api": "csp_XBPQ",  "searchable": 1, "quickSearch": 1, "playerType": "1",  "ext":"./lib/free.json" },
  //   {
  //       "key": "csp_Free",
  //       "name": "✨福瑞影视",
@@ -40,26 +31,7 @@
  //       "ext": "./lib/freeok.json",
  //       "jar": "./lib/小米ab.jar"
   //    },
-            {
-            "key":"freeok",
-            "name":"🌟freeok┃BPQ",
-            "type":3,
-            "api":"csp_XBPQ",
-            "playerType":"2",
-            "ext":{
-                "分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类":"FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧",
-                "分类值":"1&2&3&4&12&5",
-                "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-                "副标题":"<div class=\"module-item-note\">&&</div>",
-                "嗅探词":"m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-                "线路数组":"data-dropdown-value=&&</div>[不包含:夸克]",
-                "线路标题":"<span>&&</small>",
-                "导演":"导演：&&</div>",
-                "主演":"主演：&&</div>",
-                "简介":"<p>&&</p>"
-            }
-        },
+
 
     {"key": "一起看 ",
       "name": "👑一起看",
@@ -154,7 +126,7 @@
 
   {"key": "dr_中国人", "name": "🔥中国人", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 1, "filterable": 1, "ext": "./lib/中国人.js"}, 
   {"key": "dr_NYA", "name": "🔥NYA动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/NyaFun.js"}, 
-  {"key": "dr_农民", "name": "🔥农民", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/农民影视.js"},
+  {"key": "dr_农民", "name": "🔥农民", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/农民影视.js"},
    {"key": "dr_胖虎", "name": "🔥胖虎", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/胖虎.js"}, 
    {"key": "dr_时光", "name": "🔥时光", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/时光影视.js"}, 
    {"key": "dr_网飞", "name": "🔥网飞", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/网飞.TV.js"}, 
@@ -171,7 +143,7 @@
             "playerType": 2,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://atomgit.com/lintech/tms/raw/master/source/nightly/sites/码上/18哈.js"
+            "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/18哈.js"
         },
                 {
             "key": "🔥码上看乐鱼",
@@ -182,7 +154,7 @@
             "playerType": 2,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://atomgit.com/lintech/tms/raw/master/source/nightly/sites/码上/乐鱼.js"
+            "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/乐鱼.js"
         },
         {
             "key": "🔥码上看大师兄",
@@ -193,7 +165,7 @@
             "playerType": 2,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://atomgit.com/lintech/tms/raw/master/source/nightly/sites/码上/大师兄.js"
+            "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/大师兄.js"
         },
 
         {
