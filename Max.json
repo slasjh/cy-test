@@ -1254,7 +1254,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/极客影院.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/极客影院.json"
         },        {
             "key": "csp_XYQHiker_乐鱼影视",
             "name": "码上👓香-乐鱼影视(XYQH)",
@@ -1263,7 +1263,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/乐鱼影视.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/乐鱼影视.json"
       
         },
         {
@@ -1274,7 +1274,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/歪片星球.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/歪片星球.json"
         },{
             "key": "csp_XYQHiker_达达龟",
             "name": "码上👓香-达达龟(XYQH)",
@@ -1283,7 +1283,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/达达龟.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/达达龟.json"
            // "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
         },     {
             "key": "csp_XYQHiker_HDmoli",
@@ -1293,7 +1293,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/HDmoli.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/HDmoli.json"
          
         },
         {
@@ -1304,7 +1304,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/voflix HD.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/voflix HD.json"
           
         },        {
             "key": "csp_XYQHiker_影视工场",
@@ -1314,7 +1314,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/影视工场.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/影视工场.json"
             
         },        {
             "key": "csp_XYQHiker_电影盒子",
@@ -1325,7 +1325,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/电影盒子.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/电影盒子.json"
           
         },
         {
@@ -1336,7 +1336,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/耐看点播.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/耐看点播.json"
            
         },{
             "key": "csp_XYQHiker_GimyTV劇迷",
@@ -1346,7 +1346,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/GimyTV劇迷.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/GimyTV劇迷.json"
             
         },        {
             "key": "csp_XYQHiker_COKEMV影院",
@@ -1357,7 +1357,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/COKEMV影院.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/COKEMV影院.json"
            // "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQHiker/COKEMV影院.json",
            // "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
         },
@@ -1369,7 +1369,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQBiu/TVB云播.json"        
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQBiu/TVB云播.json"        
             //"ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQBiu/TVB云播.json",
            // "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
         },
@@ -1381,7 +1381,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQBiu/libvio.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQBiu/libvio.json"
      
         },
 
