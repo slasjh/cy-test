@@ -1254,8 +1254,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQHiker/极客影院.json",
-            "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
+            "ext": "./XYQHiker/极客影院.json"
         },        {
             "key": "csp_XYQHiker_乐鱼影视",
             "name": "码上👓香-乐鱼影视(XYQH)",
@@ -1264,8 +1263,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQHiker/乐鱼影视.json",
-            "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
+            "ext": "./XYQHiker/乐鱼影视.json"
+      
         },
         {
             "key": "csp_XYQHiker_歪片星球",
@@ -1275,8 +1274,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQHiker/歪片星球.json",
-            "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
+            "ext": "./XYQHiker/歪片星球.json"
         },{
             "key": "csp_XYQHiker_达达龟",
             "name": "码上👓香-达达龟(XYQH)",
@@ -1285,8 +1283,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQHiker/达达龟.json",
-            "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
+            "ext": "./XYQHiker/达达龟.json"
+           // "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
         },     {
             "key": "csp_XYQHiker_HDmoli",
             "name": "码上👓香-HDmoli(XYQH)",
@@ -1295,8 +1293,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQHiker/HDmoli.json",
-            "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
+            "ext": "./XYQHiker/HDmoli.json"
+         
         },
         {
             "key": "csp_XYQHiker_voflixHD",
@@ -1306,8 +1304,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQHiker/voflix HD.json",
-            "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
+            "ext": "./XYQHiker/voflix HD.json"
+          
         },        {
             "key": "csp_XYQHiker_影视工场",
             "name": "码上👓香-影视工场(XYQH)",
@@ -1316,8 +1314,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQHiker/影视工场.json",
-            "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
+            "ext": "./XYQHiker/影视工场.json"
+            
         },        {
             "key": "csp_XYQHiker_电影盒子",
             "name": "码上👓香-🎞电影盒子(XYQH)",
@@ -1327,8 +1325,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQHiker/电影盒子.json",
-            "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
+            "ext": "./XYQHiker/电影盒子.json"
+          
         },
         {
             "key": "csp_XYQHiker_耐看点播",
@@ -1338,8 +1336,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQHiker/耐看点播.json",
-            "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
+            "ext": "./XYQHiker/耐看点播.json"
+           
         },{
             "key": "csp_XYQHiker_GimyTV劇迷",
             "name": "码上👓香-GimyTV劇迷✈️(XYQH)",
@@ -1348,8 +1346,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQHiker/GimyTV劇迷.json",
-            "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
+            "ext": "./XYQHiker/GimyTV劇迷.json"
+            
         },        {
             "key": "csp_XYQHiker_COKEMV影院",
             "name": "码上👓香-COKEMV影院(XYQH)",
@@ -1359,8 +1357,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQHiker/COKEMV影院.json",
-            "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
+            "ext": "./XYQHiker/COKEMV影院.json"
+           // "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQHiker/COKEMV影院.json",
+           // "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
         },
                 {
             "key": "csp_XYQBiu_TVB云播",
@@ -1370,8 +1369,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQBiu/TVB云播.json",
-            "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
+            "ext": "./XYQBiu/TVB云播.json",          
+            //"ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQBiu/TVB云播.json",
+           // "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
         },
         {
             "key": "csp_XYQBiu_Libvio",
@@ -1381,8 +1381,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQBiu/libvio.json",
-            "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
+            "ext": "./XYQBiu/libvio.json"
+     
         },
 
 
