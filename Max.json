@@ -126,7 +126,7 @@
 
   {"key": "dr_中国人", "name": "🔥中国人", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 1, "filterable": 1, "ext": "./lib/中国人.js"}, 
   {"key": "dr_NYA", "name": "🔥NYA动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/NyaFun.js"}, 
-  {"key": "dr_农民", "name": "🔥农民", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/农民影视.js"},
+  {"key": "dr_农民", "name": "🔥农民", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/nmys.js"},
    {"key": "dr_胖虎", "name": "🔥胖虎", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/胖虎.js"}, 
    {"key": "dr_时光", "name": "🔥时光", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/时光影视.js"}, 
    {"key": "dr_网飞", "name": "🔥网飞", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/网飞.TV.js"}, 
@@ -143,7 +143,7 @@
             "playerType": 2,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/18哈.js"
+            "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/18ha.js"
         },
                 {
             "key": "🔥码上看乐鱼",
@@ -154,7 +154,7 @@
             "playerType": 2,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/乐鱼.js"
+            "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/leyu.js"
         },
         {
             "key": "🔥码上看大师兄",
@@ -165,7 +165,7 @@
             "playerType": 2,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/大师兄.js"
+            "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/dsx.js"
         },
 
         {
