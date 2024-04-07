@@ -18,6 +18,8 @@
    {"key": "dr_时光机在线豆瓣", "name": "X影视排行榜", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
    {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"./lib/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"lf_js_search","name":"搜索 | 路飞[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_search3_min.js"},
+{"key":"YGP","name":"码上👓饭-🚀叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24"},
+
    {"key": "dr_看动漫", "name": "🔥哔哩动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
   //{ "key": "ok",  "name": "👌FREEOK",  "type": 3,  "api": "csp_XBPQ",  "searchable": 1, "quickSearch": 1, "playerType": "1",  "ext":"./lib/free.json" },
  //   {
@@ -235,7 +237,7 @@
         {"key": "爱看影视-👓猫-❤┃", "name": "爱看┃影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "/lib/爱看.js"},  
 
     {"key": "XBPQ_蚂蚁","name": " 蚂蚁影视","type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,
-      "filterable": 1, "ext": "./lib/mayi.json"}, 
+      "filterable": 1, "ext": "./lib/mayi.json","jar": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338"}, 
 {"key": "csp_XYQHiker_悠云","name":"悠云","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/悠云.json"},
 
         {"key": "上👓香-🎞csp_XYQHiker_电影盒子", "name": "电影盒子", "type": 3, "api": "csp_XYQHiker", "playerType": 2, "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/电影盒子.json", "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
@@ -925,7 +927,7 @@
 
       "filterable": 1,
 
-      "ext": "./lib/热播之家.json"
+      "ext": "./lib/热播之家.json","jar": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338"
 
     },
  {
@@ -956,7 +958,7 @@
                 "分类":"电视剧$2#电影$1#综艺$3#动漫$4",
                 "分类url":"https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
                 "跳转播放链接":"urlDecode(vod_class*url\":\"&&\")"
-            }
+            },"jar": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338"
         },
        {
 
@@ -1217,36 +1219,9 @@
                 "分类": "电影$movie#电视剧$tv#综艺$variety#动漫片$anime"
             }
         },
- {
-            "key": "高清云影视",
-            "name": "高清云影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "免嗅": "1",
-                "副标题": "pic-text text-right\">&&</span>",
-                "简介": "class=\"col-pd\">&&如果您喜欢",
-                "分类url": "https://www.guangmaoshenye.com/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}/[https://www.guangmaoshenye.com/gain/{cateId}/]",
-                "分类": "理论电影$lilun"
-            }
-        },
-            {
-            "key": "尤物影视",
-            "name": "龙物影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://44.wangyemg9.top/vodtype/{cateId}-{catePg}.html",
-                "直接播放": 1,
-                "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
-                "分类数组": "<a&&</a >",
-                "分类标题": ">&&/a>[不包含:更多]",
-                "分类ID": "/vodtype/&&.html"
-            }
-        },{
+
+
+        {
             "key": "csp_XYQHiker_极客影院",
             "name": "码上👓香-极客影院(XYQH)",
             "type": 3,
@@ -1304,11 +1279,11 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/voflix HD.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/voflixHD.json"
           
         },        {
             "key": "csp_XYQHiker_影视工场",
-            "name": "码上👓香-影视工场(XYQH)",
+            "name": "码上👓香-影视工场(XYQH)-1",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
