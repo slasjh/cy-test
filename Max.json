@@ -765,6 +765,10 @@
       ]
 
     },
+    {"key":"业余采集A","name":"♻业余自营","type":1,"api":"http://154.3.2.163/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧","电影","电视剧","动漫","综艺","记录片","音乐","影视解说","体育"]},
+    {"key":"酷影视","name":"🍃酷影影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+{"key":"shaozeyy","name":"📺少泽影客","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://yk.shaozeyy.com/api.php/app/"},
+
  
         #测试
             {"key":"22","name":"以下接口待测试","type":0,"api":""},
@@ -1370,7 +1374,8 @@
 {"key":"csp_xBPQ_秒","name":"👿文才·秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"},
 {"key":"耐看","name":"👁耐看┃自建","type":3,"api":"csp_XBPQ",
 "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4","ext":{"分类数组":"swiper-wrapper\"*&&</ul>","线路数组":"data-dropdown-value=&&</div>","线路标题":"<span>&&</small>[替换:新自建.5>>耐看Ⓐ#新自建>>耐看Ⓑ#自建一>>耐看①#自建二>>耐看②#自建三>>耐看③#自建四>>耐看④#自建五>>耐看⑤#自建三.5>>耐看⓺#腾讯视频>>腾讯#优酷视频>>优酷#奇艺视频>>奇艺#芒果视频>>芒果#暴风资源>>暴风#快看资源>>快看#量子资源>>量子#非凡资源>>非凡#</span><small>>>共]+集","分类url":"https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html"}},
-
+{"key":"csp_58","name":"🥌58动漫","type":3,"style":{"type":"rect","ratio":1.33},
+"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"站名":"58动漫","主页url":"http://www.ting38.com","简介":"剧情介绍:&&</p>","导演":"导演：&&</a>","主演":"主演：&&</a>","影片状态":"更新：&&</li>","影片类型":"类型:&&</a>","数组":"fed-lazyfed-part-2by3\"&&\"fed-list-title","标题":"title=\"&&\"","副标题":"fed-text-center\">&&</span>","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索模式":"1","搜索url":"http://www.ting38.com/search.php?searchword={wd}","搜索数组":"fed-lazyfed-part-2by3\"&&\"fed-list-title","搜索标题":"title=\"&&\"","搜索副标题":"fed-text-center\">&&</span>","搜索图片":"data-original=\"&&\"","搜索链接":"href=\"&&\"","线路数组":"data-toggle=&&</a>[替换:动漫专线⑦>>动漫专线1#动漫专线⑤>>动漫专线2][不包含:动漫专线①#动漫专线②#动漫专线④#动漫专线③#动漫专线⑥]","线路标题":">&&<","播放数组":"<ulclass=\"myui-content__list&&</ul>","播放标题":">&&<","播放列表":"<a&&/a>","分类url":"http://www.ting38.com/ting/{cateId}-{catePg}.html;;ak","分类":"国产动漫$2#动漫电影$4#新番日漫$1#欧美动漫$3"}},
 
 
 
