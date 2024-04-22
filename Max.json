@@ -1181,7 +1181,7 @@
                 "嗅探词": ".m3u8",
                 "分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
                 "分类": "电影$1#剧集$2#动漫$4#综艺$4",
-                "搜索模式": "0"
+                "搜索模式": "0","jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"
             }
         },
             {
@@ -1226,7 +1226,7 @@
                 "播放数组": "<ul class=\"mo-movs-item mo-sort-boxs&&</ul>",
                 "搜索url": "https://www.hanpian.tv/search/{wd}-------------/",
                 "分类url": "https://www.hanpian.tv/so/{cateId}/{area}-{by}--{lang}----{catePg}---{year}/",
-                "分类": "电影$movie#电视剧$tv#综艺$variety#动漫片$anime"
+                "分类": "电影$movie#电视剧$tv#综艺$variety#动漫片$anime","jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"
             }
         },
 
@@ -1239,7 +1239,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/极客影院.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/极客影院.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
         },        {
             "key": "csp_XYQHiker_乐鱼影视",
             "name": "码上👓香-乐鱼影视(XYQH)",
@@ -1248,7 +1248,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/乐鱼影视.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/乐鱼影视.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
       
         },
         {
@@ -1259,7 +1259,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/歪片星球.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/歪片星球.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
         },{
             "key": "csp_XYQHiker_达达龟",
             "name": "码上👓香-达达龟(XYQH)",
@@ -1268,7 +1268,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/达达龟.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/达达龟.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
            // "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
         },     {
             "key": "csp_XYQHiker_HDmoli",
@@ -1278,7 +1278,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/HDmoli.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/HDmoli.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
          
         },
         {
@@ -1289,7 +1289,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/voflixHD.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/voflixHD.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
           
         },        {
             "key": "csp_XYQHiker_影视工场-2",
@@ -1299,7 +1299,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/影视工场.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/影视工场.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
             
         },        {
             "key": "csp_XYQHiker_电影盒子",
@@ -1310,7 +1310,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/电影盒子.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/电影盒子.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
           
         },
         {
@@ -1321,7 +1321,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/耐看点播.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/耐看点播.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
            
         },{
             "key": "csp_XYQHiker_GimyTV劇迷",
@@ -1331,7 +1331,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/GimyTV劇迷.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/GimyTV劇迷.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
             
         },        {
             "key": "csp_XYQHiker_COKEMV影院",
@@ -1342,7 +1342,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/COKEMV影院.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/COKEMV影院.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
            // "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQHiker/COKEMV影院.json",
            // "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
         },
