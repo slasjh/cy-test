@@ -796,7 +796,7 @@
  "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6",
  			"主页url": "https://www.keke2.app",
       "图片": "\"vod_pic\"*\"&&\"",   
-"搜索url": "https://www.keke2.app/search?k={wd}" }},
+"搜索url": "https://www.keke2.app/search?k={wd}" },"jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"},
   
 
 //{ "key": "南瓜",  "name": "🎃南瓜App", "type": 3, "api": "csp_NanGua",
