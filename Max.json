@@ -1418,7 +1418,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQBiu/TVB云播.json"        
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQBiu/TVB云播.json" ,"jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"       
             //"ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./XYQBiu/TVB云播.json",
            // "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
         },
@@ -1430,7 +1430,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQBiu/libvio.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQBiu/libvio.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
      
         },
        
