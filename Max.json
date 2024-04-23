@@ -1,6 +1,6 @@
 {
   //"spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
-"spider": "./custom_spider_20240407-jx.tms;md5;36fc643718eb5b15a7f1f991c0715aa4",
+"spider": "./custom_spider_20240407-jx.jar;md5;36fc643718eb5b15a7f1f991c0715aa4",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "warningText": "X影视友情提示：不要相信视频中广告，爱护家人！！！",
   "lives": [
@@ -17,7 +17,7 @@
 
   "sites": [
    {"key": "dr_时光机在线豆瓣", "name": "X影视排行榜", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
-   {"key":"码上时光机","name":"🔥领先版时光机","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":1,"jar": "./custom_spider_20240407-jx.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"},
+   {"key":"码上时光机","name":"🔥领先版时光机","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":1},
    {"key":"🔥码上看巴士","name":"🔥码上看巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
    {"key":"🔥码上看直播","name":"🔥码上看直播","type":3,"api":"csp_Live2Vod","searchable":0,"changeable":0,"ext":"https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/remote_live.json"},
 {"key":"🔥码上看Voflix","name":"🔥码上看Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"ext":{"siteUrl":"https://www.voflix.vip","jxToken":"tm://tm/jxToken.txt"}},
