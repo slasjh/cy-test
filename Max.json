@@ -16,7 +16,20 @@
 
   "sites": [
    {"key": "dr_时光机在线豆瓣", "name": "X影视排行榜", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
-   {"key":"码上时光机","name":"🔥领先版时光机","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":1,"jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"},
+   {"key":"码上时光机","name":"🔥领先版时光机","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":1,"jar": "./custom_spider_20240407-jx.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"},
+   {"key":"🔥码上看巴士","name":"🔥码上看巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
+   {"key":"🔥码上看直播","name":"🔥码上看直播","type":3,"api":"csp_Live2Vod","searchable":0,"changeable":0,"ext":"https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/remote_live.json"},
+{"key":"🔥码上看Voflix","name":"🔥码上看Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"ext":{"siteUrl":"https://www.voflix.vip","jxToken":"tm://tm/jxToken.txt"}},
+{"key":"🔥码上看电影港","name":"🔥码上看电影港","type":3,"api":"csp_DyGang","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"🔥码上看迅雷吧","name":"🔥码上看迅雷吧","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"🔥码上看RARBT","name":"🔥码上看RARBT","type":3,"api":"csp_Rarbt","searchable":1,"quickSearch":1,"filterable":1,"ext":{"jxToken":"tm://tm/jxToken.txt"}},
+{"key":"🔥码上看6V","name":"🔥码上看6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.66ss.org/"},
+{"key":"🔥码上看FREEOK","name":"🔥码上看FREEOK","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/freeok.json"},
+{"key":"🔥码上看荐片[JAR]","name":"🔥码上看荐片[JAR]","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"🔥码上看荐片[JS]","name":"🔥码上看荐片[JS]","type":3,"api":"https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/merge.min.js","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/jianpian.js"},
+{"key":"🔥码上看低端","name":"🔥码上看低端","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/ddys.json"},
+{"key":"🔥码上看低端[JS]","name":"🔥码上看低端[JS]","type":3,"api":"https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/merge.min.js","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/ddys.js"},
+
    {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"./lib/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"lf_js_search","name":"搜索 | 路飞[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_search3_min.js"},
 {"key":"YGP","name":"码上👓饭-🚀叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24"},
