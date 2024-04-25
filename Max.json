@@ -38,17 +38,7 @@
 
    {"key": "dr_看动漫", "name": "🔥哔哩动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
   //{ "key": "ok",  "name": "👌FREEOK",  "type": 3,  "api": "csp_XBPQ",  "searchable": 1, "quickSearch": 1, "playerType": "1",  "ext":"./lib/free.json" },
- //   {
- //       "key": "csp_Free",
- //       "name": "✨福瑞影视",
-//        "type": 3,
- //       "api": "csp_XBPQ",
- //       "searchable": 1,
- //       "quickSearch": 1,
-//       "filterable": 1,
- //       "ext": "./lib/freeok.json",
- //       "jar": "./lib/小米ab.jar"
-  //    },
+
 
 
     {"key": "一起看 ",
@@ -207,7 +197,6 @@
         
 #秒播
   
-//{"key": "xgapp","name": "🚄秒播-西瓜","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
  {"key": "火狐资源2", "name": "🚄秒播-火狐", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫",  "战争片", "动作片", "科幻片", "纪录片", "爱情片", "喜剧片", "灾难片", "悬疑片",  "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]},
  {"key": "49zy", "name": "🚄秒播-49", "type": 1, "api": "https://49zyw.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "categories": ["国产剧", "纪录片", "欧美剧", "香港剧", "动作片", "爱情片", "科幻片", "恐怖片",  "战争片", "喜剧片", "动画片",  "韩国剧", "动漫", "电影", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "台湾剧", "国产动漫", "日本动漫", "欧美动漫", "泰国剧", "日剧", "电影解说", "奇幻片", "灾难片", "悬疑片",  "体育赛事", "海外剧"]}, 
@@ -1562,7 +1551,7 @@
 
 {"key":"圣城影视","name":"🎦圣城","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":1,"ext":{"站名":"圣城影视","主页url":"https://sc1080.top/","简介":"剧情：</span>&&</span>","导演":"导演：&&</div>","主演":"主演：&&</div>","影片状态":"集数：&&</div>","影片类型":"icon-cate-ds\">&&</a>","数组":"module-item-pic\">&&module-item\">","标题":"title=\"&&\"","副标题":"module-item-text\"&&</div>","图片":"data-src=\"&&\"","链接":"href=\"&&\"","搜索url":"/index.php/vod/search.html?wd={wd}","搜索数组":"lazylazyload\"&&<h3>[不包含:肥猫不肥#神秘的哥哥]","搜索标题":"alt=\"&&\"","搜索副标题":"title=*>&&</a>","搜索图片":"data-src=\"&&\"","搜索链接":"href=\"&&\"","线路数组":"data-dropdown-value=&&</div>[排序:蓝光C>蓝光Y[夸克秒播]>夸克专线1][不包含:蓝光Z#备用#鸡儿云#飞速云#新浪云#金鹰云#火狐云#独家蓝光#APP专线#腾讯视频#优酷视频#夸克专线2#芒果TV#乐视云#资源库#爱奇艺]","线路标题":"<span>&&</small>[替换:</span><small>>>共]+集","播放数组":"sort-item\"&&</div>","播放标题":"<span>&&</span>","播放列表":"<a&&</a>","分类url":"https://sc1080.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;akm","分类":"短剧$21#电视剧$2#电影$1#动漫$4#奈飞片库$20#综艺$3"}},
 
-{"key":"baipiaoys","name":"🎦白嫖","type":3,"api":"csp_XBPQ","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"主页url":"https://www.baipiaoys.com:9092/","副标题":"pic-texttext-right\">&&</b>","搜索模式":"1","搜索url":"https://www.baipiaoys.com:9092/search.html?wd={wd}","图片":"data-original=\"&&\"","嗅探词":".mp4#m3u8#.m3u8#/tos/#.flv#video/tos","影片类型":"<divclass=\"module-info-tag\">&&立即播放","导演":"导演:&&</div>","主演":"主演:&&</div>","分类":"电影$1#电视剧$2#动漫$3#短剧$4#综艺$5","分类url":"https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"},
+{"key":"baipiaoys","name":"🎦白嫖","type":3,"api":"csp_XBPQ","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"主页url":"https://www.baipiaoys.com:9092/","副标题":"pic-texttext-right\">&&</b>","搜索模式":"1","搜索url":"https://www.baipiaoys.com:9092/search.html?wd={wd}","图片":"data-original=\"&&\"","嗅探词":".mp4#m3u8#.m3u8#/tos/#.flv#video/tos","影片类型":"<divclass=\"module-info-tag\">&&立即播放","导演":"导演:&&</div>","主演":"主演:&&</div>","分类":"电影$1#电视剧$2#动漫$3#短剧$4#综艺$5","分类url":"https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"}},
 
 {"key":"drpy_js_骚火电影","name":"🎦骚火","type":3,"api":"https://notabug.org/qdpdwjx/ziyuan/raw/master/libs/drpy2.js","ext":"https://notabug.org/qdpdwjx/ziyuan/raw/master/JS/saohuo.js","playerType":2,"searchable":1,"quickSearch":1},
 
