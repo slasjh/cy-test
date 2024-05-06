@@ -133,8 +133,31 @@
 {"key":"飘零资源","name":"飘零聚合","type":0,"api":"https://p2100.net/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"飘花电影","name":"飘花电影(聚)💎","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
  {"key": "奇优-猫", "name": "奇优影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/奇优.js"},
+          {
+            "key": "即可",
+            "name": "👋1080P┃即刻",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "嗅探词": ".m3u8",
+                "分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$4",
+                "搜索模式": "0","jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"
+            }
+        },
+        {
+            "key": "csp_XYQHiker_极客影院",
+            "name": "码上👓香-极客影院(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/极客影院.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+        }, 
 
- #
+
+  {"key": "----时光机开始----", "name": "----时光机开始----", "type": 3,  "searchable": 1, "playerType": 2, "quickSearch": 1}, 
 
   {"key": "dr_中国人", "name": "🔥中国人", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 1, "filterable": 1, "ext": "./lib/中国人.js"}, 
   {"key": "dr_NYA", "name": "🔥NYA动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/NyaFun.js"}, 
@@ -198,6 +221,20 @@
 {"key":"🔥码上看白白XBPQ","name":"🔥码上看白白","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/sbb.json"},
 {"key":"🔥码上看白嫖XBPQ","name":"🔥码上看白嫖","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/baipiao.json"},
 {"key":"🔥码上看大中国XBPQ","name":"🔥码上看大中国","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/dzg.json"},
+
+       {
+            "key": "csp_XYQHiker_乐鱼影视",
+            "name": "码上👓香-乐鱼影视(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/乐鱼影视.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+      
+        },
+
+  {"key": "----时光机结束----", "name": "----时光机结束----", "type": 3,  "searchable": 1, "playerType": 2, "quickSearch": 1}, 
         
 #秒播
   {"key":"🔥秒播","name":"----秒播开始----","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1},
@@ -232,6 +269,18 @@
 {"key":"cjzy_360资源","name":"🧭卫士","type":1,"api":"https://360zy.com/api.php/provide/vod","playUrl":"","categories":["国产剧","国产动漫","香港剧","台湾剧","欧美剧","日韩动漫","NBA","短片","西部片","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","惊悚片","悬疑片","犯罪片","剧情片","战争片","家庭篇","记录片","历史片","动漫片","大陆综艺","港台综艺"]},
 {"key":"耀协资源","name":"耀协4K","type":0,"api":"http://zyz.yxys.top/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"雨哥哥影视","name":"雨哥哥影视(聚)💎","type":1,"api":"http://cj.baozi66.top:66/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"达达龟","name":"🐢哒哒龟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./lib/dadagui.json"},
+{
+            "key": "csp_XYQHiker_达达龟",
+            "name": "码上👓香-达达龟(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/达达龟.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+           // "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
+        },
 
 
 
@@ -1211,7 +1260,7 @@
 
     },
 
-{"key":"达达龟","name":"🐢哒哒龟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./lib/dadagui.json"},
+
 
 {"key": "csp_XYQHiker_臭蛋蛋影视","name":"🎗臭蛋蛋影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/cdd.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
 {
@@ -1270,38 +1319,9 @@
         {"key": "csp_XYQHiker_哔嘀影视","name":"🧲哔嘀影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/XYQHiker/哔嘀影视.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
         {"key": "csp_XYQHiker_磁力熊","name":"🧲磁力熊(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/XYQHiker/磁力熊.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
          
-         {
-            "key": "即可",
-            "name": "👋1080P┃即刻",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "嗅探词": ".m3u8",
-                "分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$4",
-                "搜索模式": "0","jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"
-            }
-        },
-            {
-            "key": "Fangniu4k",
-            "name": "🇨🇳放牛┃TV┃App",
-            "type": 3,
-            "api": "csp_Fangniu4k",
-            "searchable": 1,
-            "jar": "./二小.jar",
-            "changeable": 1
-        },
-{
-            "key": "T4-yintan",
-            "name": "影探4k",
-            "type": 4,
-            "api": "https://catbox.n13.club/yt.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": true
-},
+
+           
+
  
  {
             "key": "韩片网",
@@ -1330,26 +1350,6 @@
 
 
         {
-            "key": "csp_XYQHiker_极客影院",
-            "name": "码上👓香-极客影院(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/极客影院.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
-        },        {
-            "key": "csp_XYQHiker_乐鱼影视",
-            "name": "码上👓香-乐鱼影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/乐鱼影视.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
-      
-        },
-        {
             "key": "csp_XYQHiker_歪片星球",
             "name": "码上👓香-歪片星球(XYQH)",
             "type": 3,
@@ -1358,16 +1358,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/歪片星球.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
-        },{
-            "key": "csp_XYQHiker_达达龟",
-            "name": "码上👓香-达达龟(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/达达龟.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
-           // "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
         },     {
             "key": "csp_XYQHiker_HDmoli",
             "name": "码上👓香-HDmoli(XYQH)",
