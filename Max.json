@@ -768,12 +768,7 @@
         {
             "key": "🔥秒播",
             "name": "----秒播开始----",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "type": 3
         },
         {
             "key": "火狐资源2",
@@ -1146,10 +1141,9 @@
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
         },
         {
-            "key": "----秒播-结束----",
+            "key": "秒播结束",
             "name": "---秒播-结束---",
             "type": 3,
-            "api": "csp_XBPQ",
             "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
