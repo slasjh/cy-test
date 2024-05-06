@@ -216,7 +216,7 @@
 {"key":"drpy_js_骚火电影","name":"🎦骚火","type":3,"api":"https://notabug.org/qdpdwjx/ziyuan/raw/master/libs/drpy2.js","ext":"https://notabug.org/qdpdwjx/ziyuan/raw/master/JS/saohuo.js","playerType":2,"searchable":1,"quickSearch":1},
 
 
-  {"key":"🔥秒播","name":"---秒播-结束---","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"---秒播-结束---","name":"---秒播-结束---","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1},
 
 #可行可用 
         {"key": "csp_XYQHiker_奇趣影视","name":"奇趣影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ_0430_6.jar;md5;c9b78bcf2c5727f9e13cd7adb9678923","ext":"./lib/奇趣影视.json"},
