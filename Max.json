@@ -491,6 +491,24 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/极客影院.json",
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
         },
+
+                {
+            "key": "ikanbot3",
+            "name": "ikanbot",
+            "type": 3,
+            "api": "./js/lib/drpy2.min.js",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/ikanbot3.js"
+        },
+        {
+            "key": "drpy_js_ikanbot2",
+            "name": "影视 | 爱看机器人ikanbot[js]",
+            "type": 3,
+            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/ikanbot3.js"
+        },
         {
             "key": "----时光机开始----",
             "name": "-----时光机开始-----",
@@ -3302,16 +3320,15 @@
             "api": "https://api.yikanapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
-        },
-        {
-            "key": "22",
-            "name": "以下接口待测试",
+        },        {
+            "key": "22口结束",
+            "name": "-----接口结束----",
             "type": 0,
             "api": ""
         },
         {
-            "key": "18",
-            "name": "请勿相信视频中的任何广告",
+            "key": "22",
+            "name": "-----测试开始----",
             "type": 0,
             "api": ""
         },
@@ -3619,23 +3636,7 @@
             "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/4KHDR.json",
             "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
         },
-        {
-            "key": "ikanbot3",
-            "name": "ikanbot",
-            "type": 3,
-            "api": "./js/lib/drpy2.min.js",
-            "ext": "./lib/ikanbot3.js"
-        },
-        {
-            "key": "drpy_js_ikanbot2",
-            "name": "影视 | 爱看机器人2[js]",
-            "type": 3,
-            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "./lib/ikanbot2.js"
-        },
+
         {
             "key": "业余采集A",
             "name": "♻业余影视",
@@ -3814,6 +3815,17 @@
             "filterable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/耐看点播.json",
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+        },        {
+            "key": "耐看",
+            "name": "👁耐看┃自建",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类数组": "swiper-wrapper\"*&&</ul>",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</small>[替换:新自建.5>>耐看Ⓐ#新自建>>耐看Ⓑ#自建一>>耐看①#自建二>>耐看②#自建三>>耐看③#自建四>>耐看④#自建五>>耐看⑤#自建三.5>>耐看⓺#腾讯视频>>腾讯#优酷视频>>优酷#奇艺视频>>奇艺#芒果视频>>芒果#暴风资源>>暴风#快看资源>>快看#量子资源>>量子#非凡资源>>非凡#</span><small>>>共]+集",
+                "分类url": "https://lkvod.us/show/{cateId}--------{catePg}---{year}.html"
+            }
         },
         {
             "key": "csp_XYQHiker_GimyTV劇迷",
@@ -3925,18 +3937,7 @@
             "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4",
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"
         },
-        {
-            "key": "耐看",
-            "name": "👁耐看┃自建",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类数组": "swiper-wrapper\"*&&</ul>",
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</small>[替换:新自建.5>>耐看Ⓐ#新自建>>耐看Ⓑ#自建一>>耐看①#自建二>>耐看②#自建三>>耐看③#自建四>>耐看④#自建五>>耐看⑤#自建三.5>>耐看⓺#腾讯视频>>腾讯#优酷视频>>优酷#奇艺视频>>奇艺#芒果视频>>芒果#暴风资源>>暴风#快看资源>>快看#量子资源>>量子#非凡资源>>非凡#</span><small>>>共]+集",
-                "分类url": "https://lkvod.us/show/{cateId}--------{catePg}---{year}.html"
-            }
-        },
+
         {
             "key": "csp_58",
             "name": "🥌58动漫",
@@ -4051,6 +4052,18 @@
             "api": "https://raw.githubusercontent.com/gaotianliuyun/gao/5c38e70b44ef059dc0761458c25e09775faf3556/lib/drpy2.min.js",
             "ext": "https://raw.githubusercontent.com/gaotianliuyun/gao/5c38e70b44ef059dc0761458c25e09775faf3556/js/奇米动漫.js"
         },
+
+
+                {
+            "key": "22测试结束",
+            "name": "-----测试结束----",
+            "type": 0,
+            "api": ""
+        },
+
+
+
+
         {
             "key": "lurenjia",
             "name": "这是结尾",
@@ -4061,6 +4074,7 @@
             "filterable": 1,
             "playUrl": "json:https://gg.dytt996.com/quad.php?url="
         }
+
     ],
     "parses": [
         {
