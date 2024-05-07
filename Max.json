@@ -271,6 +271,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
             "ext": "./lib/在线之家.json"
         },
         {
@@ -831,6 +832,8 @@
 
 
         },
+
+                
         {
             "key": "🔥秒播云播开始",
             "name": "-----秒播云播开始-----",
@@ -1252,11 +1255,196 @@
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
         },
         {
-            "key": "秒播结束",
-            "name": "-----秒播结束-----",
+            "key": "秒播云播结束",
+            "name": "-----秒播云播结束-----",
             "api": "",
             "type": 1
         },
+
+               {
+            "key": "----高清4K影院线路开始begin----",
+            "name": "-----高清4K影院线路开始begin-----",
+            "api": "",
+            "type": 1
+        },
+  {
+            "key": "jar_看完偶",
+            "name": "🔥完偶4k",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "./token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
+            "jar": "./custom_spider.jar;md5;8A3584C3608A5412FB02A769AB3886BB"
+        },
+        {
+            "key": "影探4K",
+            "name": "🎦影探4K",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://vipcms.lyyytv.cn/api.php/app/"
+        },
+        {
+            "key": "csp_xpath_yinfans",
+            "name": "💥音范丝4K",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/音范丝.json"
+        },
+        {
+            "key": "电影港4k磁力",
+            "name": "🧲电影港4K",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./lib/电影港磁力.json",
+            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+        },
+        {
+            "key": "csp_New6v",
+            "name": "🧲6V 4K",
+            "type": 3,
+            "api": "csp_New6v",
+            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.xb6v.com"
+        },
+        {
+            "key": "布谷tv",
+            "name": "🔴布谷4K|磁力",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4",
+            "ext": {
+                "搜索链接": "https://www.bugutv.org/page/{pg}?cat&s={wd}",
+                "简介": "◎简*介</p >&&</p >",
+                "影片年代": "◎上映 日期&&<br>",
+                "影片地区": "◎产*地&&<br>",
+                "线路数组": "entry-content u-text-format u-clearfix&&\"content-template",
+                "线路标题": "磁力",
+                "播放数组": "entry-content u-text-format u-clearfix&&\"content-template",
+                "播放列表": "<p>&&</p >[包含:magnet]",
+                "播放链接": "*\">&&</a >",
+                "分类": "4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
+                "分类链接": "https://www.bugutv.org/{cateId}/page/{catePg}"
+            }
+        },
+
+   {
+            "key": "----高清4K影院线路结束over----",
+            "name": "-----高清4K影院线路结束over-----",
+            "api": "",
+            "type": 1
+        },
+      {
+            "key": "----短剧线路爽剧开始begin----",
+            "name": "-----短剧线路爽剧开始begin-----",
+            "api": "",
+            "type": 1
+        },
+
+         {
+            "key": "csp_XYQHiker_VSYY",
+            "name": "🎦VS短剧",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XYQHiker",
+            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
+            "ext": "./lib/VS影院.json"
+        },
+        {
+            "key": "csp_XYQHiker_短剧网",
+            "name": "💢短剧网",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
+            "ext": "./lib/短剧网.json"
+        },
+        {
+            "key": "csp_XBPQ_aoaotv",
+            "name": "🎦短剧傲",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
+                "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
+            }
+        },
+        {
+            "key": "csp_XBPQ_短剧",
+            "name": "💛短剧迷",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
+                "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24",
+                "jar": "./lib/小米ab.jar"
+            }
+        },
+        {
+            "key": "短剧one-cat",
+            "name": "🥰one短剧",
+            "type": 3,
+            "api": "csp_Panda",
+            "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
+            "ext": "./lib/one短剧.json"
+        },
+        {
+            "key": "👓猫-💮┃种子短剧",
+            "name": "短剧┃视频",
+            "type": 1,
+            "api": "http://zzdj.cc/api.php/provide/vod"
+        },
+        {
+            "key": "短剧",
+            "name": "码上👓饭-🌈上头┃短剧",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "种子短剧",
+            "name": "码上👓猫-🍒┃短剧┃种子",
+            "type": 3,
+            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+            "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
+            "playerType": 2
+        },
+      
+
+         {
+            "key": "----短剧爽剧线路结束over----",
+            "name": "-----短剧爽剧线路结束over-----",
+            "api": "",
+            "type": 1
+        },
+
         {
             "key": "csp_XYQHiker_奇趣影视",
             "name": "奇趣影视",
@@ -1467,161 +1655,7 @@
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
             "ext": "./lib/我爱跟剧_XYQHiker_.json"
         },
-        {
-            "key": "csp_XYQHiker_VSYY",
-            "name": "🎦VS短剧",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XYQHiker",
-            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
-            "ext": "./lib/VS影院.json"
-        },
-        {
-            "key": "csp_XYQHiker_短剧网",
-            "name": "💢短剧网",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
-            "ext": "./lib/短剧网.json"
-        },
-        {
-            "key": "csp_XBPQ_aoaotv",
-            "name": "🎦短剧傲",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
-                "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
-            }
-        },
-        {
-            "key": "csp_XBPQ_短剧",
-            "name": "💛短剧迷",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
-                "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24",
-                "jar": "./lib/小米ab.jar"
-            }
-        },
-        {
-            "key": "短剧one-cat",
-            "name": "🥰one短剧",
-            "type": 3,
-            "api": "csp_Panda",
-            "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
-            "ext": "./lib/one短剧.json"
-        },
-        {
-            "key": "👓猫-💮┃种子短剧",
-            "name": "短剧┃视频",
-            "type": 1,
-            "api": "http://zzdj.cc/api.php/provide/vod"
-        },
-        {
-            "key": "短剧",
-            "name": "码上👓饭-🌈上头┃短剧",
-            "type": 3,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "种子短剧",
-            "name": "码上👓猫-🍒┃短剧┃种子",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
-            "playerType": 2
-        },
-        {
-            "key": "jar_看完偶",
-            "name": "🔥完偶4k",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "./token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
-            "jar": "./custom_spider.jar;md5;8A3584C3608A5412FB02A769AB3886BB"
-        },
-        {
-            "key": "影探4K",
-            "name": "🎦影探4K",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://vipcms.lyyytv.cn/api.php/app/"
-        },
-        {
-            "key": "csp_xpath_yinfans",
-            "name": "💥音范丝4K",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/音范丝.json"
-        },
-        {
-            "key": "电影港4k磁力",
-            "name": "🧲电影港4K",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./lib/电影港磁力.json",
-            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
-        },
-        {
-            "key": "csp_New6v",
-            "name": "🧲6V 4K",
-            "type": 3,
-            "api": "csp_New6v",
-            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.xb6v.com"
-        },
-        {
-            "key": "布谷tv",
-            "name": "🔴布谷4K|磁力",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4",
-            "ext": {
-                "搜索链接": "https://www.bugutv.org/page/{pg}?cat&s={wd}",
-                "简介": "◎简*介</p >&&</p >",
-                "影片年代": "◎上映 日期&&<br>",
-                "影片地区": "◎产*地&&<br>",
-                "线路数组": "entry-content u-text-format u-clearfix&&\"content-template",
-                "线路标题": "磁力",
-                "播放数组": "entry-content u-text-format u-clearfix&&\"content-template",
-                "播放列表": "<p>&&</p >[包含:magnet]",
-                "播放链接": "*\">&&</a >",
-                "分类": "4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
-                "分类链接": "https://www.bugutv.org/{cateId}/page/{catePg}"
-            }
-        },
+       
         {
             "key": "drpy_js_360影视-猫",
             "name": "📛360",
@@ -3403,8 +3437,8 @@
             "searchable": 1,
             "quickSearch": 1
         },        {
-            "key": "22口结束",
-            "name": "-----接口结束----",
+            "key": "22接口结束",
+            "name": "-----接口切片结束----",
             "type": 0,
             "api": ""
         },
