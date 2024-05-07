@@ -1341,6 +1341,25 @@
                 "分类链接": "https://www.bugutv.org/{cateId}/page/{catePg}"
             }
         },
+              {
+            "key": "二次萌",
+            "name": "二次萌",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/%E4%BA%8C%E6%AC%A1%E8%90%8C_XYQHiker_.json",
+            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+        },  
+          {
+            "key": "二次萌XBPQ",
+            "name": "二次萌XBPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/%E4%BA%8C%E6%AC%A1%E8%90%8CXBPQ.json"
+        },
 
    {
             "key": "----高清4K影院线路结束over----",
@@ -1443,6 +1462,20 @@
             "name": "-----短剧爽剧线路结束over-----",
             "api": "",
             "type": 1
+        },
+
+              {
+            "key": "22动漫线路开始",
+            "name": "-----动漫线路开始----",
+            "type": 0,
+            "api": ""
+        },
+
+                     {
+            "key": "22动漫线路开始",
+            "name": "-----动漫线路开始----",
+            "type": 0,
+            "api": ""
         },
 
 
@@ -4113,6 +4146,8 @@
             "api": "https://raw.githubusercontent.com/gaotianliuyun/gao/5c38e70b44ef059dc0761458c25e09775faf3556/lib/drpy2.min.js",
             "ext": "https://raw.githubusercontent.com/gaotianliuyun/gao/5c38e70b44ef059dc0761458c25e09775faf3556/js/奇米动漫.js"
         },
+
+
 
 
                 {
