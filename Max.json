@@ -14,8 +14,14 @@
         }
     ],
     "sites": [
+               {
+            "key": "----稳定线路开始begin----",
+            "name": "-----稳定线路开始begin-----",
+            "api": "",
+            "type": 1
+        },
         {
-            "key": "dr_时光机在线豆瓣",
+            "key": "dr_在线豆瓣",
             "name": "X影视排行榜",
             "type": 3,
             "api": "./lib/merge.min.js",
@@ -25,8 +31,8 @@
             "ext": "./lib/豆瓣.js"
         },
         {
-            "key": "码上时光机",
-            "name": "🔥领先版时光机",
+            "key": "码上领先版",
+            "name": "🔥领先版",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -509,6 +515,69 @@
             "changeable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/ikanbot3.js"
         },
+{
+            "key": "csp_可可影视-3",
+            "name": "🉑可可影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4",
+            "ext": {
+                "图片": "data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]",
+                "线路数组": "<a&&</a>[排序:独家>蓝光8>FF线路>蓝光7>蓝光2>蓝光2-1>蓝光2-2>XL线路>HN线路>SB线路]",
+                "线路标题": "source-item-label\">&&</span>",
+                "分类url": "https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}-3-{catePg}.html",
+                "分类": "电视剧$2#电影$1#动漫$3#综艺$4#短剧$6"
+            },
+            "搜索url": "https://www.keke6.app/search?k={wd}"
+        },
+        {
+            "key": "csp_XBPQ_可可",
+            "name": "可可影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+                "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6",
+                "主页url": "https://www.keke2.app",
+                "图片": "data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]",
+                "搜索url": "https://www.keke2.app/search?k={wd}"
+            },
+            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"
+        },
+        
+        {
+            "key": "csp_XBPQ_ncat",
+            "name": "网飞猫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "分类url": "https://www.ncat3.com:51111/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+                "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6",
+                "主页url": "https://www.ncat3.com:51111",
+                "图片": "data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]",
+                "搜索url": "https://www.ncat3.com:51111/search?k={wd}"
+            },
+            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"
+        },
+
+       {
+            "key": "----稳定线路结束over----",
+            "name": "-----稳定线路结束over-----",
+            "api": "",
+            "type": 1
+        },
+
         {
             "key": "----时光机开始----",
             "name": "-----时光机开始-----",
@@ -742,17 +811,7 @@
             "filterable": 1,
             "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/baipiao.json"
         },
-        {
-            "key": "🔥码上看大中国XBPQ",
-            "name": "🔥码上看大中国",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/dzg.json"
-        },
+
         {
             "key": "csp_XYQHiker_乐鱼影视",
             "name": "码上👓香-乐鱼影视(XYQH)",
@@ -777,6 +836,29 @@
             "name": "-----秒播云播开始-----",
             "api": "",
             "type": 1
+        },
+        {
+            "key": "csp_xBPQ_秒",
+            "name": "👿文才·秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"
+        },
+            
+                {
+            "key": "🔥码上看大中国XBPQ",
+            "name": "🔥码上看大中国（文才）",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/dzg.json"
         },
         {
             "key": "火狐资源2",
@@ -3861,82 +3943,7 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQBiu/libvio.json",
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
         },
-        {
-            "key": "csp_可可影视-3",
-            "name": "🉑可可影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4",
-            "ext": {
-                "图片": "data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]",
-                "线路数组": "<a&&</a>[排序:独家>蓝光8>FF线路>蓝光7>蓝光2>蓝光2-1>蓝光2-2>XL线路>HN线路>SB线路]",
-                "线路标题": "source-item-label\">&&</span>",
-                "分类url": "https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}-3-{catePg}.html",
-                "分类": "电视剧$2#电影$1#动漫$3#综艺$4#短剧$6"
-            },
-            "搜索url": "https://www.keke6.app/search?k={wd}"
-        },
-        {
-            "key": "csp_XBPQ_可可",
-            "name": "可可影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
-                "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6",
-                "主页url": "https://www.keke2.app",
-                "图片": "data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]",
-                "搜索url": "https://www.keke2.app/search?k={wd}"
-            },
-            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"
-        },
-        {
-            "key": "csp_xBPQ_秒",
-            "name": "👿文才·秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4",
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"
-        },
-        {
-            "key": "csp_XBPQ_ncat",
-            "name": "网飞猫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "分类url": "https://www.ncat3.com:51111/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
-                "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6",
-                "主页url": "https://www.ncat3.com:51111",
-                "图片": "data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]",
-                "搜索url": "https://www.ncat3.com:51111/search?k={wd}"
-            },
-            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"
-        },
-        {
-            "key": "csp_xBPQ_秒",
-            "name": "👿文才·秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4",
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"
-        },
+        
 
         {
             "key": "csp_58",
