@@ -289,16 +289,7 @@
             "ext": "./lib/影视工场.json",
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
         },
-        {
-            "key": "csp_黑狐",
-            "name": "🎦黑狐┃秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/heihu.json"
-        },
+
         {
             "key": "Auete-饭2",
             "name": "🏝奥特┃直连",
@@ -764,8 +755,8 @@
 
         },
         {
-            "key": "🔥秒播开始",
-            "name": "-----秒播开始-----",
+            "key": "🔥秒播云播开始",
+            "name": "-----秒播云播开始-----",
             "api": "",
             "type": 1
         },
@@ -801,6 +792,16 @@
                 "港台综艺",
                 "欧美综艺"
             ]
+        },
+                {
+            "key": "csp_黑狐",
+            "name": "🎦黑狐┃秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/heihu.json"
         },
         {
             "key": "49zy",
@@ -1137,6 +1138,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/达达龟.json",
+            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+        },
+                {
+            "key": "csp_XYQHiker_看看剧",
+            "name": "看看剧(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/看看剧_XYQHiker_.json",
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
         },
         {
@@ -3918,12 +3930,11 @@
             "name": "👁耐看┃自建",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4",
             "ext": {
                 "分类数组": "swiper-wrapper\"*&&</ul>",
                 "线路数组": "data-dropdown-value=&&</div>",
                 "线路标题": "<span>&&</small>[替换:新自建.5>>耐看Ⓐ#新自建>>耐看Ⓑ#自建一>>耐看①#自建二>>耐看②#自建三>>耐看③#自建四>>耐看④#自建五>>耐看⑤#自建三.5>>耐看⓺#腾讯视频>>腾讯#优酷视频>>优酷#奇艺视频>>奇艺#芒果视频>>芒果#暴风资源>>暴风#快看资源>>快看#量子资源>>量子#非凡资源>>非凡#</span><small>>>共]+集",
-                "分类url": "https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html"
+                "分类url": "https://lkvod.us/show/{cateId}--------{catePg}---{year}.html"
             }
         },
         {
