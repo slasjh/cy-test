@@ -1,5 +1,5 @@
 {
-"spider": "./custom_spider_20240407_4_0426_.tms;md5;",
+"spider": "./custom_spider_20240407_4_0426_.tms;md5;56d4b7bb86ba0459dc4c56f0f2aa06c4",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "warningText": "X影视友情提示：广告都是骗子，爱护家人，谨防受骗！！！",
   "lives": [
@@ -17,7 +17,6 @@
   "sites": [
    {"key": "dr_看动漫", "name": "🔥动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
 {"key":"🚀NYA|JS","name":"🚀NYA|JS","type":3,"api":"./lib/merge.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/dm/NyaFun.js"},
-     {"key":"🧸异界|JAR","name":"🧸异界|JAR","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"🧸樱花|JAR","name":"🧸樱花|JAR","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 
     
@@ -26,18 +25,13 @@
       "name": "🤖动漫巴士",
       "type": 3,
       "api": "csp_XPath",
-      "spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "./lib/动漫巴士.json"
     }, 
-   {"key": "csp_Free", "name": "👌Freeok动漫", "type": 3, "api": "csp_XBPQ","searchable": 1,
-"quickSearch": 1,"filterable": 1,"ext": "./lib/freeok-dongman.json","jar": "./lib/小米ab.jar" },
-
-    {"key":"csp_视觉","name":"👓视觉动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,
- "filterable":1,"ext":"./lib/xinshijue-dongman.json"},
- {"key": "csp_XYQHiker_在线之家","name":"🏠在线动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dm/在线之家动漫.json ","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+ 
+ {"key": "csp_XYQHiker_在线之家","name":"🏠在线动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dm/在线之家动漫.json ","jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649"},
         {
       "key": "csp_XYQHiker_影视工场",
       "name": "🏭工场动漫",
@@ -47,11 +41,10 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "./dm/影视工场动漫.json",
-      "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+      "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649"
     }, 
 
-    
-       
+         
 
    
    {"key": "xml_火狐", "name": "💢火狐动漫", "type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
@@ -68,18 +61,13 @@
   {"key": "csp_xml_享看", "name": "💢享看动漫","type": 1,"searchable": 1,
       "quickSearch": 1,"filterable": 1,"api": "https://xkanzy10.com/api.php/provide/vod","categories": [ "动画片", "国产动漫","中国动漫","日本动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动漫","动漫电影"]  },
 
- {"key":"快看","name":"💢快看动漫","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/","categories": [ "动画片", "国产动漫","中国动漫","日本动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动漫","动漫电影"] },
- 
 
  {"key": "49zy","name": "💢49动漫","type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1, "filterable": 1, "changeable": 1,"categories": ["动画片", "国产动漫","日本动漫","欧美动漫","港台动漫"]},   
      
  {"key": "csp_无尽","name": "💢无尽动漫","type": 1,"api": "https://api.wujinapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动画片", "国产动漫","中国动漫","日本动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动漫"]},
 
-  {"key":"csp_xml_红牛资源","name":"💢红牛动漫","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/",
-"playUrl":"","searchable":1,"quickSearch":1,"categories": ["动画片", "国产动漫","中国动漫","日本动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动漫","动漫电影"]},
 
-
-{"key":"去看吧","name":"💨去看┃动漫","type":3,"api":"csp_XBPQ","jar":"./jar.jar;md5;9fc2ed12545bcb180d1bbdbbf620102","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dm/去看吧.json"}
+{"key":"去看吧","name":"💨去看┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dm/去看吧.json"}
 
      
 
