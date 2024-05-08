@@ -15,7 +15,7 @@
   ],
 
   "sites": [
-   {"key": "dr_看动漫", "name": "🔥X开源精粹", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
+   {"key": "dr_看动漫", "name": "🔥X开源精粹", "type": 3, "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/哔哩影视.js"} ,
 //{"key":"🚀NYA|JS","name":"🚀NYA|JS","type":3,"api":"./lib/merge.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/dm/NyaFun.js"},
           {"key": "火狐资源", "name": "🔥X影视仓", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["动画片", "中国动漫", "日本动漫", "欧美动漫"]}, 
 
