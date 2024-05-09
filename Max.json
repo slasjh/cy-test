@@ -516,6 +516,13 @@
             "changeable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/ikanbot3.js"
         },
+                        {
+            "key": "ikanbot4",
+            "name": "ikanbot-dr",
+            "type": 3,
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/%E7%88%B1%E7%9C%8B%E6%9C%BA%E5%99%A8%E4%BA%BA.js"
+        },
 {
             "key": "csp_可可影视-3",
             "name": "🉑可可影视",
@@ -549,10 +556,16 @@
                 "主页url": "https://www.keke2.app",
                 "图片": "data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]",
                 "搜索url": "https://www.keke2.app/search?k={wd}"
-            },
-            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"
+            }
         },
-        
+
+        {
+            "key": "可可-dr",
+            "name": "可可-dr",
+            "type": 3,
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/可可影视.js"
+        }, 
         {
             "key": "csp_XBPQ_ncat",
             "name": "网飞猫",
@@ -571,6 +584,13 @@
             },
             "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"
         },
+                {
+            "key": "网飞猫-dr",
+            "name": "网飞猫-dr",
+            "type": 3,
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/网飞猫.js"
+        }, 
 
        {
             "key": "----稳定线路结束over----",
@@ -2358,6 +2378,13 @@
                 "斯诺克"
             ]
         },
+          {
+            "key": "量子资源-dr",
+            "name": "量子资源-dr",
+            "type": 3,
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/量子资源.js"
+        }, 
         {
             "key": "非凡",
             "name": "🍉非凡资源*4K",
