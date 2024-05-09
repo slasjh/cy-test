@@ -2792,6 +2792,13 @@
                 "欧美综艺"
             ]
         },
+                  {
+            "key": "卧龙资源-dr",
+            "name": "卧龙资源-dr",
+            "type": 3,
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/卧龙资源.js"
+        },
         {
             "key": "Ikun资源",
             "name": "Ikun资源",
@@ -2923,6 +2930,13 @@
                 "日韩动漫",
                 "欧美动漫"
             ]
+        },
+         {
+            "key": "极速资源-dr",
+            "name": "极速资源-dr",
+            "type": 3,
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/极速资源.js"
         },
         {
             "key": "kuaiche",
