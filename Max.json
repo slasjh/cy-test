@@ -2411,9 +2411,12 @@
             ]
         },
           {
-            "key": "量子资源-dr",
-            "name": "量子资源-dr",
+            "key": "hipy_js_量子资源",
+            "name": "量子资源(drpy_t3)",
             "type": 3,
+            "searchable": 1,
+             "quickSearch": 1,
+             "filterable": 0,
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/量子资源.js"
         }, 
