@@ -42,8 +42,7 @@
  			"主页url": "https://www.keke2.app",
 "图片":"data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]" , 
 "搜索url": "https://www.keke2.app/search?k={wd}" }
-},
-
+},    
 {
     "key": "csp_XBPQ_ncat",
     "name": "🐱接口②",
@@ -59,34 +58,9 @@
 "搜索url": "https://www.ncat3.com:51111/search?k={wd}" }
 },
 
-{
-            "key": "baipiaoys",
-            "name": "🍓接口③",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2,
-            "ext": {
-                "主页url": "https://www.baipiaoys.com:9092/",
-                "副标题": "pic-texttext-right\">&&</b>",
-                "搜索模式": "1",
-                "搜索url": "https://www.baipiaoys.com:9092/search.html?wd={wd}",
-                "图片": "data-original=\"&&\"",
-                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "影片类型": "<divclass=\"module-info-tag\">&&立即播放",
-                "导演": "导演:&&</div>",
-                "主演": "主演:&&</div>",
-                "分类": "短剧$4",
-                "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-            }
-        },
-
  {
             "key": "csp_XYQHiker_VSYY",
-            "name": "🎦接口⑤",
+            "name": "🎦接口③",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -103,41 +77,27 @@
     // {"key":"csp_xml_新浪资源","name":"🐝资源②","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories": ["短剧片"]},
 
 //{ "key": "暴風","name": "🌀资源③","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"categories": ["短剧片"] },
-        {
-            "key": "49zy",
-            "name": "🚄接口⑥",
-            "type": 1,
-            "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1, "categories": ["短剧"]
-        },
+
  {
             "key": "快看",
-            "name": "🍎接口⑦",
+            "name": "🍎接口④",
             "type": 1,
             "api": "https://kuaikan-api.com/api.php/provide/vod/", "categories": ["热门短剧"]
         },
         {
             "key": "csp_无尽",
-            "name": "📽️接口⑧",
+            "name": "📽️接口⑤",
             "type": 1,
             "api": "https://api.wujinapi.com/api.php/provide/vod/", "categories": ["女频恋爱", "反转爽剧", "脑洞悬疑", "年代穿越", "古装仙侠", "现代都市","短剧" ],
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1
         },
-        {
-            "key": "csp_xml_红牛资源",
-            "name": "🐝接口⑨",
-            "type": 1,
-            "api": "https://www.hongniuzy2.com/api.php/provide/vod/","categories": ["短剧"],
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1 
-        },
+       // { "key": "csp_xml_红牛资源",  "name": "🐝接口⑨", "type": 1, "api": "https://www.hongniuzy2.com/api.php/provide/vod/","categories": ["短剧"], "playUrl": "", "searchable": 1, "quickSearch": 1  },
+      //  { "key": "49zy", "name": "🚄接口⑥",  "type": 1,  "api": "https://49zyw.com/api.php/provide/vod/?ac=list",  "searchable": 1, "quickSearch": 1,  "filterable": 1,  "changeable": 1, "categories": ["短剧"] },
+  
 
+//{ "key": "baipiaoys", "name": "🍓接口③","type": 3, "api": "csp_XBPQ", "changeable": 1,  "searchable": 1, "quickSearch": 1, "filterable": 1,"playerType": 2, "ext": { "主页url": "https://www.baipiaoys.com:9092/", "副标题": "pic-texttext-right\">&&</b>",  "搜索模式": "1", "搜索url": "https://www.baipiaoys.com:9092/search.html?wd={wd}", "图片": "data-original=\"&&\"", "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos", "影片类型": "<divclass=\"module-info-tag\">&&立即播放", "导演": "导演:&&</div>","主演": "主演:&&</div>", "分类": "短剧$4", "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html" }},
          {
       "key": "X开源精粹-量子",
       "name": "关注公众号：X开源精粹",
