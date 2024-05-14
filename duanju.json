@@ -22,20 +22,15 @@
 
                { "key": "速博资源","name": "🔥X影视仓","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["短剧"]},
 
- 
-              {
-            "key": "🔥看18哈",
-            "name": "👓影院②",
-            "type": 3,
-            "api": "./lib/merge.min.js",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dj/18ha短剧.js"
-        },
-        
+    {"key":"🔥码上看Voflix","name":"🔥官方③","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,        "jar": "./custom_spider_20240420_2.tms;md5;bffed34f9f7ba3b644eba4f6df36bab0",    "categories": ["短剧"],    "ext": {
+                "siteUrl": "https://www.voflix.vip","jxToken": "179d14c3b27b40cb5cee66d302af747c7400715169957"
+              //  "jxToken": "tm://tm/jxToken.txt"
+            }},
+    {"key":"🔥码上看RARBT","name":"🔥官方④","type":3,"api":"csp_Rarbt","searchable":1,"quickSearch":1,"filterable":1     ,   "jar": "./custom_spider_20240420_2.tms;md5;bffed34f9f7ba3b644eba4f6df36bab0",    "categories": ["短剧"],     "ext": {
+                "jxToken": "179d14c3b27b40cb5cee66d302af747c7400715169957"
+            }},
 
+{"key":"csp_xBPQ_文才-秒","name":"👿云播①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"categories": ["短剧"],  "ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"},
                   {
 
       "key": "csp_New6v",
@@ -132,7 +127,7 @@
  
 
         {
-            "key": "短剧",
+            "key": "短剧s",
             "name": "码上👓饭-🌈上头┃短剧",
             "type": 3,
             "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
@@ -142,18 +137,18 @@
             "changeable": 0
         },
         {
-            "key": "种子短剧",
+            "key": "种子短剧z",
             "name": "码上👓猫-🍒┃短剧┃种子",
             "type": 3,
             "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
             "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
             "playerType": 2
         },
-        {"key":"短剧","name":"🚌fan-🌈上头┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715069751639/fan.txt;md5;ccc15f8c3df51befa578c1ce8632359f"},
+        {"key":"短剧st","name":"🚌fan-🌈上头┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715069751639/fan.txt;md5;ccc15f8c3df51befa578c1ce8632359f"},
 
         {"key":"无忧短剧","name":"🚌OK-🌈无忧┃短剧","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
         {"key":"csp_Bili短剧","name":"🚌XYQ-🐞哔哩短剧","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.gitmirror.com/gaotianliuyun/gao/master/https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/biliext/Bili短剧.json","jar":"https://raw.gitmirror.com/gaotianliuyun/gao/master/https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/jar/XYQ.jar;md5;81544697bc790013fc5bb1d2939bf0b6"},
-        {"key":"短剧","name":"🚌PG-短剧","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu","jar":"https://pan.shangui.cc/f/Y0jqsy/pg.jar"},
+        {"key":"短剧pg","name":"🚌PG-短剧","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu","jar":"https://pan.shangui.cc/f/Y0jqsy/pg.jar"},
       
 
     //{"key": "索尼资源", "name": "🚄资源①", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/", "categories": ["短剧片"], "searchable": 1, "quickSearch": 1},
