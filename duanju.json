@@ -91,41 +91,11 @@
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","categories": ["短剧"],
             "ext": "./lib/VS影院.json"
         },
-         {
 
-      "key": "csp_New6v",
-
-      "name": "💥iMAX②",
-
-      "type": 3,
-
-      "api": "csp_New6v",
-
-      "jar": "./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 1,         
-         "categories": [
-                "短剧"
-            ],
-
-      "ext": "http://www.xb6v.com"
-
-    },
-
-        {
-            "key": "码上👓猫-种子短剧z",
-            "name": "🍒┃短剧┃种子",
-            "type": 3,
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dj/种子短剧.js",
-            "playerType": 2
-        },
         {"key":"🚌fan-短剧st","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715069751639/fan.txt;md5;ccc15f8c3df51befa578c1ce8632359f"},
 
+
+        {"key":"🚌fan-短剧st2","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1,         "jar": "./lib/fan.jar;md5;ea2690fc66083afe1431071968e60395"},
 
       
 
@@ -141,19 +111,19 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 1, "categories": ["短剧"]
         },
  {
             "key": "快看",
             "name": "🍎快看资源",
             "type": 1,
-            "api": "https://kuaikan-api.com/api.php/provide/vod/"
+            "api": "https://kuaikan-api.com/api.php/provide/vod/", "categories": ["热门短剧"]
         },
         {
             "key": "csp_无尽",
             "name": "🚄无尽资源",
             "type": 1,
-            "api": "https://api.wujinapi.com/api.php/provide/vod/",
+            "api": "https://api.wujinapi.com/api.php/provide/vod/", "categories": ["女频恋爱", "反转爽剧", "脑洞悬疑", "年代穿越", "古装仙侠", "现代都市","短剧" ],
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1
@@ -162,7 +132,7 @@
             "key": "csp_xml_红牛资源",
             "name": "🐝红牛资源*4K'",
             "type": 1,
-            "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+            "api": "https://www.hongniuzy2.com/api.php/provide/vod/",, "categories": ["短剧"],
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1 
