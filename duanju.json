@@ -18,12 +18,16 @@
   "sites": [
 
   // {"key":"豆瓣","name":"🔥X开源精粹","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":1},
-           {"key": "火狐资源", "name": "🔥X开源精粹", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["短剧"]}, 
+  // {"key":"🚌fan-短剧st","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715069751639/fan.txt;md5;ccc15f8c3df51befa578c1ce8632359f"},
+
+
+        {"key":"🚌fan-上头短剧st2","name":"🔥X开源精粹","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1,         "jar": "https://gitlab.com/mfkdy/cy/-/raw/main/fty.jar;md5;e85e180ec8caae0d38c78a021a2494e0"},
+           {"key": "火狐资源", "name": "🔥X影视仓", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["短剧"]}, 
                {"key": "csp_优质","name": "🔥官方①","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1, "categories": ["短剧大全"]},
-               { "key": "速博资源","name": "🔥X影视仓","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["短剧"]},
+               { "key": "速博资源","name": "🔥官方②","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["短剧"]},
 
 
-    {"key":"🔥码上看RARBT","name":"🔥官方④","type":3,"api":"csp_Rarbt","searchable":1,"quickSearch":1,"filterable":1     ,   "jar": "./custom_spider_20240420_2.tms;md5;bffed34f9f7ba3b644eba4f6df36bab0",    "categories": ["短剧"],     "ext": {"jxToken": "179d14c3b27b40cb5cee66d302af747c7400715169957" }},
+    {"key":"🔥码上看RARBT","name":"🔥官方③","type":3,"api":"csp_Rarbt","searchable":1,"quickSearch":1,"filterable":1     ,   "jar": "./custom_spider_20240420_2.tms;md5;bffed34f9f7ba3b644eba4f6df36bab0",    "categories": ["短剧"],     "ext": {"jxToken": "179d14c3b27b40cb5cee66d302af747c7400715169957" }},
  
       {
     "key": "csp_XBPQ_可可",
@@ -57,7 +61,7 @@
 
 {
             "key": "baipiaoys",
-            "name": "🎦白嫖",
+            "name": "🍓接口③",
             "type": 3,
             "api": "csp_XBPQ",
             "changeable": 1,
@@ -82,7 +86,7 @@
 
  {
             "key": "csp_XYQHiker_VSYY",
-            "name": "🎦VS短剧",
+            "name": "🎦接口⑤",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -92,12 +96,8 @@
             "ext": "./lib/VS影院.json"
         },
 
-        {"key":"🚌fan-短剧st","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715069751639/fan.txt;md5;ccc15f8c3df51befa578c1ce8632359f"},
 
 
-        {"key":"🚌fan-短剧st2","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1,         "jar": "./lib/fan.jar;md5;ea2690fc66083afe1431071968e60395"},
-
-      
 
     //{"key": "索尼资源", "name": "🚄资源①", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/", "categories": ["短剧片"], "searchable": 1, "quickSearch": 1},
     // {"key":"csp_xml_新浪资源","name":"🐝资源②","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories": ["短剧片"]},
@@ -105,7 +105,7 @@
 //{ "key": "暴風","name": "🌀资源③","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"categories": ["短剧片"] },
         {
             "key": "49zy",
-            "name": "🚄秒播-49",
+            "name": "🚄接口⑥",
             "type": 1,
             "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -115,13 +115,13 @@
         },
  {
             "key": "快看",
-            "name": "🍎快看资源",
+            "name": "🍎接口⑦",
             "type": 1,
             "api": "https://kuaikan-api.com/api.php/provide/vod/", "categories": ["热门短剧"]
         },
         {
             "key": "csp_无尽",
-            "name": "🚄无尽资源",
+            "name": "📽️接口⑧",
             "type": 1,
             "api": "https://api.wujinapi.com/api.php/provide/vod/", "categories": ["女频恋爱", "反转爽剧", "脑洞悬疑", "年代穿越", "古装仙侠", "现代都市","短剧" ],
             "searchable": 1,
@@ -130,7 +130,7 @@
         },
         {
             "key": "csp_xml_红牛资源",
-            "name": "🐝红牛资源*4K'",
+            "name": "🐝接口⑨",
             "type": 1,
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/","categories": ["短剧"],
             "playUrl": "",
@@ -152,7 +152,7 @@
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,"categories": ["短剧"]}
-   //         { "key": "X开源精粹", "name": "关注公众号：X开源精粹", "type": 3, "api": "csp_X", "searchable": 0},
+   //         { "key": "X开源精粹⑩", "name": "关注公众号：X开源精粹", "type": 3, "api": "csp_X", "searchable": 0},
            //       {"key": "X影视仓","name": "关注公众号：X影视仓", "type": 3, "api": "csp_X", "searchable": 0}
 
 
