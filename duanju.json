@@ -20,8 +20,7 @@
   // {"key":"豆瓣","name":"🔥X开源精粹","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":1},
            {"key": "火狐资源", "name": "🔥X开源精粹", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["短剧"]}, 
 
-               {"key": "csp_优质","name": "🔥X影视仓","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["短剧"]},
-               { "key": "速博资源","name": "🔥官方②","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["短剧"]},
+               { "key": "速博资源","name": "🔥X影视仓","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["短剧"]},
 
  
               {
@@ -35,22 +34,7 @@
             "filterable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dj/18ha短剧.js"
         },
-            
-
-{"key":"csp_xBPQ_文才-秒","name":"👿云播①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/dj/文才短剧.json"},
-
-   {
-            "key": "cjzy_360资源",
-            "name": "🧭云播②",
-            "type": 1,
-            "api": "https://360zy.com/api.php/provide/vod",
-            "playUrl": "",
-            "categories": [
-                "短剧"
-            ]
-        },
-
-
+        
 
                   {
 
@@ -78,19 +62,6 @@
     },
         
 
-    {
-            "key": "lz影院",
-            "name": "💢短剧",
-            "type": 1,
-            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "短剧"
-            ]
-        },
-  {"key": "csp_XYQHiker_短剧网","name":"💢短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649","ext":"./lib/短剧网.json"},
  
       {
     "key": "csp_XBPQ_可可",
@@ -146,43 +117,7 @@
                 "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
             }
         },
-                {
-            "key": "圣城影视",
-            "name": "🎦圣城",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "playerType": 1,
-            "ext": {
-                "站名": "圣城影视",
-                "主页url": "https://sc1080.top/",
-                "简介": "剧情：</span>&&</span>",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "影片状态": "集数：&&</div>",
-                "影片类型": "icon-cate-ds\">&&</a>",
-                "数组": "module-item-pic\">&&module-item\">",
-                "标题": "title=\"&&\"",
-                "副标题": "module-item-text\"&&</div>",
-                "图片": "data-src=\"&&\"",
-                "链接": "href=\"&&\"",
-                "搜索url": "/index.php/vod/search.html?wd={wd}",
-                "搜索数组": "lazylazyload\"&&<h3>[不包含:肥猫不肥#神秘的哥哥]",
-                "搜索标题": "alt=\"&&\"",
-                "搜索副标题": "title=*>&&</a>",
-                "搜索图片": "data-src=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "线路数组": "data-dropdown-value=&&</div>[排序:蓝光C>蓝光Y[夸克秒播]>夸克专线1][不包含:蓝光Z#备用#鸡儿云#飞速云#新浪云#金鹰云#火狐云#独家蓝光#APP专线#腾讯视频#优酷视频#夸克专线2#芒果TV#乐视云#资源库#爱奇艺]",
-                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-                "播放数组": "sort-item\"&&</div>",
-                "播放标题": "<span>&&</span>",
-                "播放列表": "<a&&</a>",
-                "分类url": "https://sc1080.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;akm",
-                "分类": "短剧$21"
-            }
-        },
+
                  {
             "key": "csp_XYQHiker_VSYY",
             "name": "🎦VS短剧",
@@ -191,49 +126,11 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XYQHiker",
-            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
+            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","categories": ["短剧"],
             "ext": "./lib/VS影院.json"
         },
-        {
-            "key": "csp_XBPQ_aoaotv",
-            "name": "🎦短剧傲",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
-                "分类": "短剧$20"
-            }
-        },
-        {
-            "key": "csp_XBPQ_短剧",
-            "name": "💛短剧迷",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
-                "分类": "短剧$20"
-            }
-        },
-        {
-            "key": "短剧one-cat",
-            "name": "🥰one短剧",
-            "type": 3,
-            "api": "csp_Panda",
-            "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
-            "ext": "./lib/one短剧.json"
-        },
-        {
-            "key": "👓猫-💮┃种子短剧",
-            "name": "短剧┃视频",
-            "type": 1,
-            "api": "http://zzdj.cc/api.php/provide/vod"
-        },
+ 
+
         {
             "key": "短剧",
             "name": "码上👓饭-🌈上头┃短剧",
