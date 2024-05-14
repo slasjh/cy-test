@@ -253,7 +253,8 @@
             "playerType": 2
         },
         {"key":"短剧","name":"🚌fan-🌈上头┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715069751639/fan.txt;md5;ccc15f8c3df51befa578c1ce8632359f"},
-        {"key":"无忧短剧","name":"🚌OK-🌈无忧┃短剧","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},
+
+        {"key":"无忧短剧","name":"🚌OK-🌈无忧┃短剧","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
         {"key":"csp_Bili短剧","name":"🚌XYQ-🐞哔哩短剧","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.gitmirror.com/gaotianliuyun/gao/master/https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/biliext/Bili短剧.json","jar":"https://raw.gitmirror.com/gaotianliuyun/gao/master/https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/jar/XYQ.jar;md5;81544697bc790013fc5bb1d2939bf0b6"},
         {"key":"短剧","name":"🚌PG-短剧","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu","jar":"https://pan.shangui.cc/f/Y0jqsy/pg.jar"},
       
