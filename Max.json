@@ -231,45 +231,6 @@
     },
 
         {
-            "key": "一起看 ",
-            "name": "👑一起看",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "一起看-饭 ",
-            "name": "🎉一起看",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"
-        },
-        {
-            "key": "yqikan",
-            "name": "👩‍❤️‍💋‍👨一起看影院",
-            "type": 3,
-            "api": "csp_YQKAPP",
-            "ext": "https://api-aws.ctdy.cc",
-            "jar": "./lib/fix1170.jar"
-        },
-        {
-            "key": "csp_YQKAPP",
-            "name": "👩‍👦一起看影院",
-            "type": 3,
-            "api": "csp_YQKAPP",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://api-aws.11ty.top",
-            "jar": "./lib/fix1170.jar"
-        },
-        {
             "key": "Xinsj",
             "name": "👓视觉直连",
             "type": 3,
@@ -301,17 +262,7 @@
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
             "ext": "./lib/在线之家.json"
         },
-        {
-            "key": "csp_Ysgc",
-            "name": "🏭影视工场",
-            "type": 3,
-            "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.ysgc3.cc/",
-            "jar": "./custom_spider_stable1019.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338"
-        },
+
         {
             "key": "csp_XYQHiker_影视工场",
             "name": "🏭工场影视",
@@ -324,27 +275,6 @@
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
         },
 
-        {
-            "key": "Auete-饭2",
-            "name": "🏝奥特┃直连",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://haozhansou.com/",
-            "jar": "./lib/fan.jar;md5;ea2690fc66083afe1431071968e60395"
-        },
-        {
-            "key": "jar_Auete",
-            "name": "🔥Auete",
-            "type": 3,
-            "api": "./lib/merge.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites//Auete.js"
-        },
         {
             "key": "csp_XYQHiker_奈飞中文",
             "name": "奈飞中文",
@@ -505,14 +435,6 @@
             "filterable": 0
         },
         {
-            "key": "飘花电影",
-            "name": "飘花电影(聚)💎",
-            "type": 1,
-            "api": "http://www.zzrhgg.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "奇优-猫",
             "name": "奇优影视",
             "type": 3,
@@ -542,7 +464,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/极客影院.json",
-            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+            "jar": "./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649"
         },
 
                 {
@@ -808,21 +730,10 @@
                 "导演": "导演:&&</div>",
                 "主演": "主演:&&</div>",
                 "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
-                "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
+                "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
             }
         },
-        {
-            "key": "白嫖",
-            "name": "码上👓饭-👻白飘┃无广",
-            "type": 3,
-            "api": "csp_BaiPiao",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.baipiaoys.com:9092/",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711726710301/fan.txt;md5;a94015e02cd9886492add6f9b1705dba"
-        },
+
         {
             "key": "🔥码上看FREEOK",
             "name": "🔥码上看FREEOK",
@@ -879,17 +790,7 @@
             "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/baipiao.json"
         },
 
-        {
-            "key": "csp_XYQHiker_乐鱼影视",
-            "name": "码上👓香-乐鱼影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/乐鱼影视.json",
-            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
-        },
+ 
         {
             "key": "----时光机结束----",
             "name": "-----时光机结束-----",
@@ -942,13 +843,18 @@
 				"页面代理":"proxy"
 			}
 		},
-		{"key":"XBPQ_BaiPiao","name":"白嫖影视|XBPQ","type":3,"api":"csp_XBPQ",
-			"ext": {
-				"地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
-				"分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
-				"分类url": "https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
-			}
-		},
+
+               {
+            "key": "csp_XYQHiker_乐鱼影视2",
+            "name": "码上👓香-乐鱼影视(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/乐鱼影视.json",
+            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+        },
 		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", 
 			"ext": {
 				"站名": "黑狐影院",
