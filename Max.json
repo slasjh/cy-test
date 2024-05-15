@@ -3767,7 +3767,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/蓝光岛.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/%E8%93%9D%E5%85%89%E5%B2%9B.json"
         },
         {
             "key": "蓝光岛2",
