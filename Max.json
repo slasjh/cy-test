@@ -376,7 +376,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
-            "ext": "./lib/555影视.json"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/555影视.json"
         },
         {
             "key": "555一（APP）",
@@ -384,7 +384,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "ext": "https://55vid.shop/api.php/app/", "categories": [
-                "电影","连续剧"]
+                "电影","连续剧","动漫","综艺"]
         },
         {
             "key": "csp_XYQHiker_秋霞电影",
