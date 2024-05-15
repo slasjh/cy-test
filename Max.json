@@ -383,7 +383,8 @@
             "name": "🌙555（APP）",
             "type": 3,
             "api": "csp_AppYsV2",
-            "ext": "https://55vid.shop/api.php/app/"
+            "ext": "https://55vid.shop/api.php/app/", "categories": [
+                "电影","连续剧"]
         },
         {
             "key": "csp_XYQHiker_秋霞电影",
