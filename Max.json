@@ -386,6 +386,24 @@
             "ext": "https://55vid.shop/api.php/app/", "categories": [
                 "电影","连续剧","动漫","综艺"]
         },
+        //{"name":"🍀555影视","url":"https://www.xawqxh.net/api.php/app/"},
+        {
+            "key": "555-dr",
+            "name": "555-dr",
+            "type": 3,
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/555影视_飞_.js"
+        }, 
+                {
+            "key": "csp_555-XBPQ",
+            "name": "👓555",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/555%E7%94%B5%E5%BD%B1.json"
+        },
         {
             "key": "csp_XYQHiker_秋霞电影",
             "name": "🦞秋霞电影",
