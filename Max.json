@@ -74,7 +74,7 @@
             "filterable": 1,
             "ext": {
                 "siteUrl": "https://www.voflix.vip",
-                "jxToken": "tm://tm/jxToken.txt"
+                "jxToken": "17c8e2cd8a01e18f0e799db16b11d1e36800715695646"
             }
         },
         {
@@ -105,6 +105,7 @@
             "filterable": 1,
             "ext": {
                 "jxToken": "tm://tm/jxToken.txt"
+                //"jxToken": "tm://tm/jxToken.txt"
             }
         },
         {
