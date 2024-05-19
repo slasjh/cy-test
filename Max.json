@@ -1569,6 +1569,17 @@
             "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0",
             "ext": "./lib/Bili.json"
         },
+                {
+            "key": "哔哩短剧",
+            "name": "🅱️哔哩短剧",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dj/Bili%E7%9F%AD%E5%89%A7.json"
+        },
         {
             "key": "相声小品",
             "name": "🏮相声小品",
