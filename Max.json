@@ -4198,6 +4198,18 @@
             "api": "https://raw.githubusercontent.com/gaotianliuyun/gao/5c38e70b44ef059dc0761458c25e09775faf3556/lib/drpy2.min.js",
             "ext": "https://raw.githubusercontent.com/gaotianliuyun/gao/5c38e70b44ef059dc0761458c25e09775faf3556/js/奇米动漫.js"
         },
+        {
+            "key": "影映",
+            "name": "影映剧场🎬",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                    "分类url":"https://www.bllibl.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
+                "公众号插兜的干货仓库出品": ""
+            } },
 
 
 
