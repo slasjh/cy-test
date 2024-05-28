@@ -3384,6 +3384,17 @@
             "api": "./js/lib/drpy2.min.js",
             "ext": "/lib/爱看.js"
         },
+ 
+                {
+            "key": "csp_XBPQ_kan",
+            "name": "🎦爱看",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "{\"主演\":\"主演：&&</div>\",\"简介\":\"<p>&&<p>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-itemtab-item&&</div>\",\"线路标题\":\"<span>&&</small>[不包含:夸克4K]\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#动漫$4#综艺$3\",\"分类url\":\"https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"
+        },
         {
             "key": "XBPQ_蚂蚁",
             "name": " 蚂蚁影视",
@@ -3523,6 +3534,13 @@
             "api": "./js/lib/drpy2.min.js",
             "ext": "./lib/360.js"
         },
+                {
+            "key": "drpy_js_360影视-猫",
+            "name": "📛360",
+            "type": 3,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/360.js"
+        },
         {
             "key": "csp_XYQHiker_跟剧",
             "name": "我爱跟剧",
@@ -3535,13 +3553,7 @@
             "ext": "./lib/我爱跟剧_XYQHiker_.json"
         },
        
-        {
-            "key": "drpy_js_360影视-猫",
-            "name": "📛360",
-            "type": 3,
-            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-            "ext": "https://d.kstore.space/download/6296/js/360.js"
-        },
+
         {
             "key": "csp_XYQHiker_美益达",
             "name": "美益达",
@@ -3584,14 +3596,7 @@
             "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
             "ext": "https://d.kstore.space/download/6296/js/奇优.js"
         },
-        {
-            "key": "爱看影视",
-            "name": "👓猫-❤┃爱看┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-            "ext": "https://d.kstore.space/download/6296/js/爱看.js"
-        },
+
         {
             "key": "厂长",
             "name": "👓猫-🏭┃厂长┃影视",
@@ -3647,8 +3652,7 @@
                 "播放数组": "<ul class=\"shoutu-playlist sort-list playlist\">&&</ul>",
                 "选集名称": ">&&<",
                 "分类url": "https://www.zrys1.top/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#港台剧$14#综艺$3#动漫$4#纪录片$22",
-                "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"
+                "分类": "电影$1#电视剧$2#港台剧$14#综艺$3#动漫$4#纪录片$22"
             }
         },
         {
@@ -4141,16 +4145,7 @@
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/影视工场.js"
         },
-        {
-            "key": "csp_XBPQ_kan",
-            "name": "🎦爱看",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "{\"主演\":\"主演：&&</div>\",\"简介\":\"<p>&&<p>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-itemtab-item&&</div>\",\"线路标题\":\"<span>&&</small>[不包含:夸克4K]\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#动漫$4#综艺$3\",\"分类url\":\"https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"
-        },
+
         {
             "key": "duanju1",
             "name": "📲短剧1",
