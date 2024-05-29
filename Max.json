@@ -1474,7 +1474,6 @@
             "key": "XBPQ_葡萄",
             "name": "🍇短剧┃葡萄🛩️",
             "type": 3,
-            "api": "csp_XBPQ",
             "jar": "./xbpq.jar",
             "ext": {
                 "数组": "class=\"stui-vodlist__box&&</li",
@@ -1485,7 +1484,6 @@
             "key": "短剧吧",
             "name": "🔥短剧吧",
             "type": 3,
-            "jar": "./XBPQ.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "分类": "恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
