@@ -435,14 +435,7 @@
             "quickSearch": 1,
             "filterable": 0
         },
-        {
-            "key": "奇优-猫",
-            "name": "奇优影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "./js/lib/drpy2.min.js",
-            "ext": "./lib/奇优.js"
-        },
+
         {
             "key": "极客-xbpq",
             "name": "👋1080P┃极客",
@@ -596,6 +589,17 @@
             "filterable": 1,
             "ext": "./lib/NyaFun.js"
         },
+                {
+            "key": "🔥码上看农民XBPQ",
+            "name": "🔥码上看农民",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/nmys.json"
+        },
         {
             "key": "dr_农民",
             "name": "🔥农民",
@@ -604,7 +608,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/nmys.js"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/nmys.js"
         },
         {
             "key": "dr_胖虎",
@@ -758,17 +762,7 @@
             "filterable": 1,
             "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/ddys.json"
         },
-        {
-            "key": "🔥码上看农民XBPQ",
-            "name": "🔥码上看农民",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/nmys.json"
-        },
+
         {
             "key": "🔥码上看白白XBPQ",
             "name": "🔥码上看白白",
@@ -809,6 +803,14 @@
             "api": "",
             "type": 1
         },
+                {
+            "key": "奇优-猫",
+            "name": "奇优影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "./js/lib/drpy2.min.js",
+            "ext": "./lib/奇优.js"
+        },
         	{"key":"XBPQ_文才","name":"文才|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
 				"分类值": "14&42&22&26&36&25&30&23&69&15&16&62",
@@ -844,7 +846,29 @@
 				"免嗅": "0",
 				"页面代理":"proxy"
 			}
-		},
+		},{
+            "key": "csp_xBPQ_秒",
+            "name": "👿文才·秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"
+        },
+            
+                {
+            "key": "🔥码上看大中国XBPQ",
+            "name": "🔥码上看大中国（文才）",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/dzg.json"
+        },
 
                {
             "key": "csp_XYQHiker_乐鱼影视2",
@@ -914,29 +938,7 @@
 		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
-        {
-            "key": "csp_xBPQ_秒",
-            "name": "👿文才·秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4",
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"
-        },
-            
-                {
-            "key": "🔥码上看大中国XBPQ",
-            "name": "🔥码上看大中国（文才）",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/dzg.json"
-        },
+        
         {
             "key": "火狐资源2",
             "name": "🚄秒播-火狐",
