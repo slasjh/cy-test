@@ -620,16 +620,7 @@
             "filterable": 1,
             "ext": "./lib/胖虎.js"
         },
-        {
-            "key": "dr_时光",
-            "name": "🔥时光",
-            "type": 3,
-            "api": "./lib/merge.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/时光影视.js"
-        },
+
         {
             "key": "dr_网飞",
             "name": "🔥网飞",
