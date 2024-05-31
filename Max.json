@@ -4306,23 +4306,23 @@
             "name": "厂长┃影视dr2",
             "type": 3,
             "playerType": "2",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/%E5%8E%82%E9%95%BF.js"
         },
             {
       "key": "天天视频[飞].js",
       "name": "🐼天天视频[飞].js",
       "type": 3,
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/天天视频[飞].js"
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/天天视频[飞].js"
     },
 
               {
       "key": "达达龟.jsd",
       "name": "🐼达达龟.jsd",
       "type": 3,
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/达达龟.js"
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/达达龟.js"
     },
                 {
             "key": "22测试结束",
