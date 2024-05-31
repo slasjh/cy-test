@@ -4307,7 +4307,23 @@
             "type": 3,
             "playerType": "2",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/%E5%8E%82%E9%95%BF.js"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/厂长.js"
+        },
+                        {
+            "key": "👓猫-🏭┃厂长2",
+            "name": "厂长┃影视dr2",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/厂长2.js"
+        },
+                                {
+            "key": "👓猫-🏭┃厂长3",
+            "name": "厂长┃影视dr2",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/厂长3.js"
         },
             {
       "key": "天天视频[飞].js",
@@ -4319,7 +4335,7 @@
 
               {
       "key": "达达龟.jsd",
-      "name": "🐼达达龟.jsd",
+      "name": "🐼达达龟.js",
       "type": 3,
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/达达龟.js"
