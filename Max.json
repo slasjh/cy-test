@@ -24,27 +24,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./lib/豆瓣.js"
-        },                {
-            "key": "51",
-            "name": "51吃瓜┃BPQ",
-            "type": 3,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "ext": {
-                "直接播放": "1",
-                "免嗅": "1",
-                "主页url": "https://hy9vz1.pthjsv.com/",
-                "数组": "<article itemscope&&</article>",
-                "图片": "loadBannerDirect('&&'",
-                "标题": "headline\">&&</h2>",
-                "链接": "href=\"&&\"",
-                "副标题": "<span>&&</span>",
-                "播放列表": "",
-                "播放链接": "",
-                "分类url": "https://hy9vz1.pthjsv.com/category/{cateId}/{catePg}/",
-                "分类": "今日吃瓜$wpcz#热门大瓜$rdsj#必看大瓜$bkdg#网红黑料$whhl#学生校园$xsxy#明星黑料$whmx#领导干部$ldcg#海外吃瓜$hwcg#内涵段子$qubk#人人吃瓜$rrcg#吃瓜新闻$cgxw#看片娱乐$ysyl#每日大瓜$mrdg"
-            }
-        },
+        },             
         {
             "key": "码上领先版",
             "name": "🔥领先版",
@@ -2321,6 +2301,16 @@
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/量子资源.js"
         }, 
+                         {
+            "key": "量子资源-xbpq ",
+            "name": "量子资源",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/量子资源.json"
+        },
         {
             "key": "非凡",
             "name": "🍉非凡资源*4K",
@@ -2374,6 +2364,16 @@
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/非凡资源.js"
         }, 
+                  {
+            "key": "非凡资源-xbpq ",
+            "name": "非凡资源",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/非凡资源.json"
+        },
         {
             "key": "49zy",
             "name": "🍚49资源",
@@ -4380,6 +4380,87 @@
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/达达龟.js"
     },
+                {
+            "key": "J达达龟1.json ",
+            "name": "达达龟",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/达达龟1.json "
+        },
+
+            {
+            "key": "JOJO",
+            "name": "JOJO",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/JOJO.json"
+        },
+                    {
+            "key": "北川影视XBPQ",
+            "name": "北川影视XBPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/北川影视.json"
+        },
+                            {
+            "key": "91Free",
+            "name": "91Free",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/91Free.json"
+        },
+                                    {
+            "key": "苹果电影",
+            "name": "苹果电影 ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/苹果电影.json"
+        },               
+            {
+            "key": "蚂蚁影院.json",
+            "name": "蚂蚁影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/蚂蚁影院.json"
+        },            {
+            "key": "火电影VIP.json ",
+            "name": "骚火电影VIP",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/骚火电影VIP.json"
+        },
+                  {
+            "key": "APP影院.json  ",
+            "name": "APP影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/APP影院.json"
+        },
+
                 {
             "key": "22测试结束",
             "name": "-----测试结束----",
