@@ -1676,7 +1676,6 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0",
             "ext": "./lib/nvtuanrewu.json"
         },
         {
