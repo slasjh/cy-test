@@ -310,11 +310,11 @@
      "name":"🔥奈飞工厂🔥",
      "type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,
-      "ext":"./lib/nf.json"},
+      "ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/nf.json"},
 
 
         	{"key":"奈非naifei.art",
-     "name":"🔥奈非中文naifei.art🔥",
+     "name":"🔥奈非中文naifei.art",
      "type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,
       "ext":{"分类url": "https://www.naifei.art/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
