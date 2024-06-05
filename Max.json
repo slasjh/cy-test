@@ -298,6 +298,38 @@
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
             "ext": "./lib/鸭奈飞影视.json"
         },
+
+	{"key":"呀奈非",
+     "name":"🔥奈飞工厂🔥",
+     "type":3,"api":"csp_XBPQ",
+     "searchable":1,"quickSearch":1,"filterable":1,
+      "ext":{"分类url": "https://www.netflixgc.com/vodtype/{cateId}.html",
+      "分类": "电影$1#电视剧$2#动漫$3"}},
+
+	{"key":"呀奈非2",
+     "name":"🔥奈飞工厂🔥",
+     "type":3,"api":"csp_XBPQ",
+     "searchable":1,"quickSearch":1,"filterable":1,
+      "ext":"./lib/nf.json"},
+
+
+        	{"key":"奈非naifei.art",
+     "name":"🔥奈非中文naifei.art🔥",
+     "type":3,"api":"csp_XBPQ",
+     "searchable":1,"quickSearch":1,"filterable":1,
+      "ext":{"分类url": "https://www.naifei.art/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+      "分类": "电影$dy#剧集$juji#动漫$dongman#综艺$zongyi"}},
+             {
+            "key": "dr_网飞",
+            "name": "🔥奈飞中文-网飞",
+            "type": 3,
+            "api": "./lib/merge.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/网飞.TV.js"
+        },
+
         {
             "key": "csp_XYQHiker_555影视",
             "name": "555影视",
@@ -621,16 +653,7 @@
             "ext": "./lib/胖虎.js"
         },
 
-        {
-            "key": "dr_网飞",
-            "name": "🔥网飞",
-            "type": 3,
-            "api": "./lib/merge.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/网飞.TV.js"
-        },
+ 
         {
             "key": "dr_跟剧",
             "name": "🔥跟剧",
@@ -3823,58 +3846,7 @@
 "筛选":"1"
 	  }
         },
-        {
-            "key": "开心影视",
-            "name": "开心😄蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/kaixinys.json",
-            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"
-        },
-        {
-            "key": "HDmoli",
-            "name": "HDMOLI💥高清",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/HDmoli.json",
-            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"
-        },
-        {
-            "key": "csp_XBPQ_6V",
-            "name": "🌙4K-6V磁力",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"
-        },
-        {
-            "key": "csp_SeedHub",
-            "name": "🧲SeedHub",
-            "type": 3,
-            "api": "csp_SeedHub",
-            "jar": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/xyq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_KubaCL",
-            "name": "🧲酷吧电影",
-            "type": 3,
-            "api": "csp_KubaCL",
-            "jar": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/xyq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
         {
             "key": "默默",
             "name": "🧡mxone",
@@ -3895,16 +3867,7 @@
             "filterable": 1,
             "ext": "https://www.69mj.com/xgapp.php/v2/"
         },
-        {
-            "key": "csp_盒子",
-            "name": "💥┃盒子2K┃秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/hezi.json"
-        },
+  
         {
             "key": "csp_XYQHiker_臭蛋蛋影视",
             "name": "🎗臭蛋蛋影视",
@@ -3932,39 +3895,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://ys.realdou.cn:2683/api.php/app/"
-        },
-        {
-            "key": "天天视频",
-            "name": "🚛天天┃4K",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ttsp.live/api.php/app/"
-        },
-        {
-            "key": "4KHDR",
-            "name": "🚛HDR磁┃4K",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://weixine.net/sub/4KHDR.json",
-            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
-        },
-        {
-            "key": "csp_XYQHikerAL_4KHDR",
-            "name": "🧲📀4KHDR(盘/磁)",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "playerType": 1,
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/4KHDR.json",
-            "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
         },
 
         {
@@ -4459,6 +4389,68 @@
             "filterable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/APP影院.json"
         },
+                {
+            "key": "天天视频",
+            "name": "🚛天天┃4K",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ttsp.live/api.php/app/"
+        },
+        {
+            "key": "天天影视",
+            "name": "天天影视",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "手机",
+                "主页url": "https://www.cdprop.com/",
+                "副标题": "pic-text text-right\">&&</b>",
+                "图片": "data-original=\"&&\"",
+                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "线路数组": "class&&id",
+                "线路标题": "<h2>&&</h2>",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+                "分类url": "https://www.cdprop.com/movshow/{cateId}-{catePg}-.html"
+        }
+        },
+        	{"key":"开心",
+     "name":"🔥开心影院🔥",
+     "type":3,"api":"csp_XBPQ",
+     "searchable":1,"quickSearch":1,"filterable":1,
+      "ext":{"分类url": "http://www.ttkx.site:81/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+      "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$5"}},
+      	{"key":"臭蛋蛋",
+     "name":"🔥臭蛋蛋影院🔥",
+     "type":3,"api":"csp_XBPQ",
+	 "jar":"./lib/Yoursmile1.jar",
+     "searchable":1,"quickSearch":1,"filterable":1,
+      "ext":{"分类url": "https://cddys.me/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+      "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
+
+      	   {"key":"阿布",
+     "name":"🔥阿布影视🔥",
+     "type":3,"api":"csp_XBPQ",
+	 "jar":"./lib/Yoursmile1.jar",
+     "searchable":1,"quickSearch":1,"filterable":1,
+      "ext":{"分类url": "https://www.abu22.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+      "分类": "动画片$101#电影$1#电视剧$2#综艺$3#动漫$4"}},
+            {"name":"🔥4K4K影视🔥",
+     "type":3,"api":"csp_XBPQ",
+	 "jar":"./lib/Yoursmile1.jar",
+     "searchable":1,"quickSearch":1,"filterable":1,
+      "ext":{"分类url": "https://4k4k.live/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+      "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},	
+
 
                 {
             "key": "22测试结束",
