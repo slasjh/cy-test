@@ -324,7 +324,7 @@
      "name":"🔥奈非中文naifei.art",
      "type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,
-      "ext":{"分类url": "https://www.naifei.art/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+      "ext":{"分类url": "https://www.naifei.art/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","线路标题": "X影视+<span>&&</small>[替换:播放片源列表GQ线路>>优质#SO线路>>速播#FM线路>>非凡#ik线路>>ik#LS线路>>乐视#SN线路>>索尼#BF线路>>暴风#KK线路>>快看#BD线路>>百度#</span><small>>>>共]+集",
       "分类": "电影$dy#剧集$juji#动漫$dongman#综艺$zongyi"}},
              {
             "key": "dr_网飞",
