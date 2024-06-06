@@ -332,6 +332,12 @@
      "searchable":1,"quickSearch":1,"filterable":1,
       "ext":{"分类url": "https://www.naifei.art/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","线路标题": "⚡️‍X影视线路⚡️‍+>&&<[替换:GQ线路>>优质#SO线路>>速播]",
       "分类": "电影$dy#剧集$juji#动漫$dongman#综艺$zongyi"}},
+                    	{"key":"奈非naifei.art3",
+     "name":"🔥奈非中文naifei.art3",
+     "type":3,"api":"csp_XBPQ",
+     "searchable":1,"quickSearch":1,"filterable":1,
+      "ext":{"分类url": "https://www.naifei.art/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","线路标题": "X影视+<span>&&</small>[替换:GQ线路>>优质#SO线路>>速播#</span><small>>>>共]+集",
+      "分类": "电影$dy#剧集$juji#动漫$dongman#综艺$zongyi"}},
              {
             "key": "dr_网飞",
             "name": "🔥奈飞中文-网飞",
