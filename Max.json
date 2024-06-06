@@ -350,7 +350,7 @@
      "name":"🔥奈非中文naifei.art5",
      "type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,
-      "ext":{"分类url": "https://www.naifei.art/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html", "线路标题": "<span>&&</small>[排序:LS线路>FM线路>BD线路>GQ线路>SO线路>BF线路]","线路数组": "data-dropdown-value=&&</div>[替换:LS线路>>乐视#FM线路>>非凡#BD线路>>百度#GQ线路>>优质#SO线路>>速播#BF线路>>暴风#SN线路>>索尼#KK线路>>快看#ik线路>>ik][不包含:UK线路#iK线路#TK线路#WJ线路]",
+      "ext":{"分类url": "https://www.naifei.art/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html", "线路数组": "data-dropdown-value=&&</div>[不包含:UK线路#iK线路#TK线路#WJ线路]","线路标题": "<span>&&</small>[排序:LS线路>FM线路>BD线路>GQ线路>SO线路>BF线路]",
                
       "分类": "电影$dy#剧集$juji#动漫$dongman#综艺$zongyi"}},
              {
