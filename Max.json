@@ -4207,20 +4207,9 @@
             "api": "https://raw.githubusercontent.com/gaotianliuyun/gao/5c38e70b44ef059dc0761458c25e09775faf3556/lib/drpy2.min.js",
             "ext": "https://raw.githubusercontent.com/gaotianliuyun/gao/5c38e70b44ef059dc0761458c25e09775faf3556/js/奇米动漫.js"
         },
-        {
-            "key": "影映",
-            "name": "影映剧场🎬",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                    "分类url":"https://www.bllibl.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
-                "公众号插兜的干货仓库出品": ""
-            } },
+ 
 
-{"key":"天龙高清","name":"🐉天龙┃高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"http://113276.xyz","数组":"<li><a&&BR>分类","图片":"src=\"&&\"","副标题":"BR>状态：&&<","简介":"</font></br>&&</div>","线路数组":"<i class=\"iconfont\"&&/font","线路标题":"</i>&&<","播放数组":"<div class=\"list playlist&&</div","跳转播放链接":"http://cdn.tl86dyw.site/cs1/?id=+var player_*url\":\"&&\"","搜索url":"http://www.82mao.com/Search/{wd}----------{pg}---.html","分类url":"http://www.82mao.com/List/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$53#电影频道$17#电视剧场$18#综艺小品$20#动漫频道$48#经典系列$16#动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5#剧情片$6#战争片$13#纪录片$14#微电影$19#国产剧$9#香港剧$10#台湾剧$21#韩国剧$12#日本剧$22#欧美剧$11#泰国剧$23#海外剧$24#TVB专区$52#综艺片$8#内地综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28#动画片$7#国产动漫$29#日韩动漫$30#欧美动漫$31#港台动漫$32#海外动漫$33"}},//"播放链接":"http://www.82mao.com/+href=\"javascript:OpenWindow3(\'/&&\',window)\"",
+{"key":"天龙高清","name":"🐉天龙┃高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"http://113276.xyz","数组":"<li><a&&BR>分类","图片":"src=\"&&\"","副标题":"BR>状态：&&<","简介":"</font></br>&&</div>","线路数组":"<i class=\"iconfont\"&&/font","线路标题":"</i>&&<","播放数组":"<div class=\"list playlist&&</div","跳转播放链接":"http://cdn.tl86dyw.site/cs1/?id=+var player_*url\":\"&&\"","搜索url":"http://www.82mao.com/Search/{wd}----------{pg}---.html","分类url":"http://www.82mao.com/List/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$53#电影频道$17#电视剧场$18#综艺小品$20#动漫频道$48#经典系列$16#动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5#剧情片$6#战争片$13#纪录片$14#微电影$19#国产剧$9#香港剧$10#台湾剧$21#韩国剧$12#日本剧$22#欧美剧$11#泰国剧$23#海外剧$24#TVB专区$52#综艺片$8#内地综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28#动画片$7#国产动漫$29#日韩动漫$30#欧美动漫$31#港台动漫$32#海外动漫$33"}},
 
 
     {
@@ -4271,7 +4260,7 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/%E4%B8%A4%E4%B8%AABT.js"
         },
                 {
-            "key": "👓猫-🏭┃厂长",
+            "key": "厂长",
             "name": "厂长┃影视dr2",
             "type": 3,
             "playerType": "2",
@@ -4279,7 +4268,7 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/厂长.js"
         },
                         {
-            "key": "👓猫-🏭┃厂长2",
+            "key": "厂长2",
             "name": "厂长┃影视dr2",
             "type": 3,
             "playerType": "2",
@@ -4287,7 +4276,7 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/厂长2.js"
         },
                                 {
-            "key": "👓猫-🏭┃厂长3",
+            "key": "厂长3",
             "name": "厂长┃影视dr2",
             "type": 3,
             "playerType": "2",
@@ -4295,7 +4284,7 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/厂长3.js"
         },
             {
-      "key": "天天视频[飞].js",
+      "key": "天天视频飞",
       "name": "🐼天天视频[飞].js",
       "type": 3,
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
@@ -4303,14 +4292,14 @@
     },
 
               {
-      "key": "达达龟.jsd",
+      "key": "达达龟js",
       "name": "🐼达达龟.js",
       "type": 3,
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/达达龟.js"
     },
                 {
-            "key": "J达达龟1.json ",
+            "key": "J达达龟1",
             "name": "达达龟",
             "type": 3,
             "api": "csp_XBPQ",
@@ -4430,10 +4419,10 @@
      "searchable":1,"quickSearch":1,"filterable":1,
       "ext":{"分类url": "http://www.ttkx.site:81/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
       "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$5"}},
+      
       	{"key":"臭蛋蛋",
      "name":"🔥臭蛋蛋影院🔥",
      "type":3,"api":"csp_XBPQ",
-	 "jar":"./lib/Yoursmile1.jar",
      "searchable":1,"quickSearch":1,"filterable":1,
       "ext":{"分类url": "https://cddys.me/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
       "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
@@ -4441,13 +4430,12 @@
       	   {"key":"阿布",
      "name":"🔥阿布影视🔥",
      "type":3,"api":"csp_XBPQ",
-	 "jar":"./lib/Yoursmile1.jar",
      "searchable":1,"quickSearch":1,"filterable":1,
       "ext":{"分类url": "https://www.abu22.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
       "分类": "动画片$101#电影$1#电视剧$2#综艺$3#动漫$4"}},
+
             {"name":"🔥4K4K影视🔥",
      "type":3,"api":"csp_XBPQ",
-	 "jar":"./lib/Yoursmile1.jar",
      "searchable":1,"quickSearch":1,"filterable":1,
       "ext":{"分类url": "https://4k4k.live/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
       "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},	
@@ -4463,19 +4451,13 @@
             "jar": "./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649"
         },
 
-                {
-            "key": "22测试结束",
-            "name": "-----测试结束----",
-            "type": 0,
-            "api": ""
-        },
-
+         
 
 
 
         {
-            "key": "lurenjia",
-            "name": "这是结尾",
+            "key": "lurenjia测试结尾",
+            "name": "这是测试结尾",
             "type": 1,
             "api": "http://dytt996.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
