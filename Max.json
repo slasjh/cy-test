@@ -976,9 +976,9 @@
 				"图片": "src=\"&&\"",
 				"搜索标题": "title=\"&&\"",
 				"搜索副标题": ">&&</a >",
-				"线路数组": "data-dropdown-value=&&</div>[排序:DI节点>YI节点>AQ节点>HN节点>HD节点>AN节点][不包含:UK节点#iK节点#TK节点#WJ节点]",
+				"线路数组": "data-dropdown-value=&&</div>[不包含:UK节点#iK节点#TK节点#WJ节点]",
                 
-				"线路标题": "<span>&&</small>[替换:<span></small>>>共]+集",
+				"线路标题": "<span>&&</small>[替换:<span></small>>>共]+集[排序:DI节点>YI节点>AQ节点>HN节点>HD节点>AN节点]",
 				"播放数组": "<div class=\"scroll-content\">&&</div>",
 				"播放标题": "<span>&&</span>",
 				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
