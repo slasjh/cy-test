@@ -67,8 +67,8 @@
        // {  "key": "🔥码上看Voflix",  "name": "🔥码上看Voflix",   "type": 3, "api": "csp_Voflix",   "searchable": 1,   "quickSearch": 1,  "filterable": 1,  "ext": {   "siteUrl": "https://www.voflix.vip",   "jxToken": "17c8e2cd8a01e18f0e799db16b11d1e36800715695646"  } },
       //  {  "key": "🔥码上看RARBT",  "name": "🔥码上看RARBT",   "type": 3, "api": "csp_Rarbt", "searchable": 1, "quickSearch": 1,  "filterable": 1, "ext": { "jxToken": "tm://tm/jxToken.txt"         //"jxToken": "tm://tm/jxToken.txt"  }  },
 
-     {  "key": "🔥码上看Voflix",  "name": "🔥码上看Voflix",   "type": 3, "api": "csp_Voflix",   "searchable": 1,   "quickSearch": 1,  "filterable": 1,  "ext": {   "siteUrl": "https://www.voflix.vip"}},
-         {  "key": "🔥码上看Voflix2",  "name": "🔥码上看Voflix2",   "type": 3, "api": "csp_Voflix",   "searchable": 1,   "quickSearch": 1,  "filterable": 1,  "ext":  "https://www.voflix.vip"}, 
+     {  "key": "🔥码上看Voflix",  "name": "🔥码上看Voflix",   "type": 3, "api": "csp_Voflix",   "searchable": 1,   "quickSearch": 1,  "filterable": 1,    "spider": "./custom_spider_20240407_4_0426_.tms;md5;56d4b7bb86ba0459dc4c56f0f2aa06c4",  "ext": {   "siteUrl": "https://www.voflix.vip"}},
+         {  "key": "🔥码上看Voflix2",  "name": "🔥码上看Voflix2",   "type": 3, "api": "csp_Voflix",   "searchable": 1,   "quickSearch": 1,  "filterable": 1,   "spider": "./custom_spider_20240407_4_0426_.tms;md5;56d4b7bb86ba0459dc4c56f0f2aa06c4", "ext":  "https://www.voflix.vip"}, 
       {  "key": "🔥码上看RARBT",  "name": "🔥码上看RARBT",   "type": 3, "api": "csp_Rarbt", "searchable": 1, "quickSearch": 1,  "filterable": 1},
 
         {
@@ -494,7 +494,7 @@
                 "分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
                 "分类": "电影$1#剧集$2#动漫$4#综艺$4",
                 "搜索模式": "0",
-                "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"
+                "spider": "./custom_spider_20240407_4_0426_.tms;md5;56d4b7bb86ba0459dc4c56f0f2aa06c4"
             }
         },
         {
