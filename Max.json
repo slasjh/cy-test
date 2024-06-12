@@ -64,19 +64,12 @@
             "changeable": 0,
             "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/remote_live.json"
         },
-        {
-            "key": "🔥码上看Voflix",
-            "name": "🔥码上看Voflix",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "siteUrl": "https://www.voflix.vip",
-                "jxToken": "17c8e2cd8a01e18f0e799db16b11d1e36800715695646"
-            }
-        },
+       // {  "key": "🔥码上看Voflix",  "name": "🔥码上看Voflix",   "type": 3, "api": "csp_Voflix",   "searchable": 1,   "quickSearch": 1,  "filterable": 1,  "ext": {   "siteUrl": "https://www.voflix.vip",   "jxToken": "17c8e2cd8a01e18f0e799db16b11d1e36800715695646"  } },
+      //  {  "key": "🔥码上看RARBT",  "name": "🔥码上看RARBT",   "type": 3, "api": "csp_Rarbt", "searchable": 1, "quickSearch": 1,  "filterable": 1, "ext": { "jxToken": "tm://tm/jxToken.txt"         //"jxToken": "tm://tm/jxToken.txt"  }  },
+     {  "key": "🔥码上看Voflix",  "name": "🔥码上看Voflix",   "type": 3, "api": "csp_Voflix",   "searchable": 1,   "quickSearch": 1,  "filterable": 1,  "ext": {   "siteUrl": "https://www.voflix.vip"},
+         {  "key": "🔥码上看Voflix2",  "name": "🔥码上看Voflix2",   "type": 3, "api": "csp_Voflix",   "searchable": 1,   "quickSearch": 1,  "filterable": 1,  "ext":  "https://www.voflix.vip"}, 
+      {  "key": "🔥码上看RARBT",  "name": "🔥码上看RARBT",   "type": 3, "api": "csp_Rarbt", "searchable": 1, "quickSearch": 1,  "filterable": 1},
+
         {
             "key": "🔥码上看电影港",
             "name": "🔥码上看电影港",
@@ -95,19 +88,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "🔥码上看RARBT",
-            "name": "🔥码上看RARBT",
-            "type": 3,
-            "api": "csp_Rarbt",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "jxToken": "tm://tm/jxToken.txt"
-                //"jxToken": "tm://tm/jxToken.txt"
-            }
-        },
+       
         {
             "key": "🔥码上看6V",
             "name": "🔥码上看6V",
