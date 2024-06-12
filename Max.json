@@ -4347,6 +4347,28 @@
             "ext": "https://www.lggys.com/api.php/app/", "categories": [
                 "电影","电视剧","动漫","综艺","爽文短剧"]
         },
+                {
+            "key": "🔥落攻阁xbpq",
+            "name": "🔥落攻阁xbpq",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/%E8%90%BD%E6%94%BB%E9%98%81.json"
+        },
+                        {
+            "key": "csp_XYQHiker_落攻阁",
+            "name": "落攻阁(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/落供阁XYQH.json",
+            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+        },
                {
             "key": "空气屋一（APP）",
             "name": "🌙空气屋",
