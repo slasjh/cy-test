@@ -383,6 +383,15 @@
             "filterable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/555%E7%94%B5%E5%BD%B1.json"
         },
+              {
+            "key": "大米一（APP）",
+            "name": "🌙大米星球",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "ext": "https://damicin.com/api.php/app/", "categories": [
+                "电影","连续剧","动漫","综艺"]
+        },
+
         {
             "key": "csp_XYQHiker_秋霞电影",
             "name": "🦞秋霞电影",
@@ -4329,6 +4338,36 @@
             "filterable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/A8影视.json",
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+        },
+                     {
+            "key": "落攻阁一（APP）",
+            "name": "🌙落攻阁",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "ext": "https://www.lggys.com/api.php/app/", "categories": [
+                "电影","电视剧","动漫","综艺","爽文短剧"]
+        },
+               {
+            "key": "空气屋一（APP）",
+            "name": "🌙空气屋",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "ext": "https://www.airfun.fun/api.php/app/", "categories": [
+                "电影","电视剧","动漫","综艺","短剧"]
+        },
+                       {
+            "key": "布衣一（APP）",
+            "name": "🌙布衣",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "ext": "https://byyy5.com/api.php/app/"
+        },
+                                {
+            "key": "明帝一（APP）",
+            "name": "🌙明帝",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "ext": "https://ys.md214.cn/api.php/app/"
         },
          
 
