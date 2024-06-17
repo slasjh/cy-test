@@ -885,17 +885,7 @@
 				"免嗅": "0",
 				"页面代理":"proxy"
 			}
-		},{
-            "key": "csp_xBPQ_秒",
-            "name": "👿文才·秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"
-        },
-            
+		},
                 {
             "key": "🔥码上看大中国XBPQ",
             "name": "🔥码上看大中国（文才）",
@@ -907,6 +897,18 @@
             "filterable": 1,
             "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/dzg.json"
         },
+        {
+            "key": "csp_xBPQ_秒",
+            "name": "👿文才·秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"
+        },
+        {"key":"drjs_文才","name":" 👺文才(DRPY)","type":3,"api":"/js/lib/drpy2.min.js","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/drpy/%E6%96%87%E6%89%8D.js"},
+            
 
 
                {
