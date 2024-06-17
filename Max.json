@@ -4412,10 +4412,57 @@
 
 
 
-{"key":"drjs_我看书斋[书]","name":"雷蒙影视 | 👺我看书斋[书](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/我看书斋[书].js"},
+{"key":"drjs_我看书斋[书]","name":"雷蒙影视 | 👺我看书斋[书](DRPY)","type":3,"api":"https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/drpy/我看书斋[书].js"},
 
 
-{"key":"drjs_古风漫画","name":"雷蒙影视 | 👺古风漫画(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/古风漫画.js"},
+{"key":"drjs_古风漫画","name":"雷蒙影视 | 👺古风漫画(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/drpy/古风漫画.js"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
         {
