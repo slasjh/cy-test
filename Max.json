@@ -892,8 +892,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4",
+            "filterable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"
         },
             
@@ -908,6 +907,7 @@
             "filterable": 1,
             "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/dzg.json"
         },
+
 
                {
             "key": "csp_XYQHiker_乐鱼影视2",
