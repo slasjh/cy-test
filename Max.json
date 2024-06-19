@@ -909,7 +909,10 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"
         },
         {"key":"drjs_文才","name":" 👺文才(DRPY)","type":3,"api":"https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/drpy/%E6%96%87%E6%89%8D.js"},
-        {"key":"文采文才","name":"🚌fan-💮文才┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf"},    
+        {"key":"文采文才","name":"🚌fan-💮文才┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf"},   
+        {"key":"文采","name":"🚌fan-💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf"},
+        {"key":"Lib","name":"🚌fan-🌟立播┃不卡","type":3,"api":"csp_Libvio","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf"},
+        {"key":"爱坤","name":"🚌小二-🛝爱坤┃秒播┃采集","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","爽文短剧"]}, 
 
 
                {
