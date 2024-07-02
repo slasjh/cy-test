@@ -851,7 +851,7 @@
             "api": "./js/lib/drpy2.min.js",
             "ext": "./lib/奇优.js"
         },
-        	{"key":"XBPQ_文才","name":"文才|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
+        	{"key":"XBPQ_文才","name":"文才|XBPQ","type":3,"api":"csp_XBPQ",
 			"ext":{
 				"滤词": "",
 				"直接播放": "0",
