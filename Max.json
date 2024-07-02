@@ -857,7 +857,11 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
-                "分类": "电影$1#电视剧$2#动漫$3#综艺$4","搜索url":"/vod/search/{wd}",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4","搜索url":"/vod/search/{wd}","图片":"vod_pic\":\"&&\"",
+				"标题": "vod_name\":\"&&\"",
+				"副标题": "vod_remarks\":\"&&\"+_+vod_pubdate\":\"&&\"",
+				"链接": "https://m.cfkj86.com/detail/+vod_id\":&&,",
+
                 "分类url": "https://www.cfkj86.com/vod/show/id/{cateId}/page/{catePg}"
             }
         },
