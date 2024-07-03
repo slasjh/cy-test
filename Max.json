@@ -668,6 +668,17 @@
             "filterable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/nmys.js"
         },
+                                     {
+            "key": "csp_XYQHiker_农民2",
+            "name": "农民影视2(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/农民影视XYQH.json ",
+            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+        },
         {
             "key": "dr_胖虎",
             "name": "🔥胖虎",
@@ -4465,6 +4476,7 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/A8影视xyqh.json",
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
         },
+
 
 
 
