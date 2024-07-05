@@ -1044,155 +1044,11 @@
 		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
+      
+
         
-        {
-            "key": "火狐资源2",
-            "name": "🚄秒播-火狐",
-            "type": 1,
-            "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "内地剧",
-                "香港剧",
-                "欧美剧",
-                "韩剧",
-                "日剧",
-                "马泰剧",
-                "台湾剧",
-                "动画片",
-                "中国动漫",
-                "日本动漫",
-                "欧美动漫",
-                "战争片",
-                "动作片",
-                "科幻片",
-                "纪录片",
-                "爱情片",
-                "喜剧片",
-                "灾难片",
-                "悬疑片",
-                "大陆综艺",
-                "日韩综艺",
-                "港台综艺",
-                "欧美综艺"
-            ]
-        },
-                {
-            "key": "csp_黑狐",
-            "name": "🎦黑狐┃秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/heihu.json"
-        },
-        {
-            "key": "49zy",
-            "name": "🚄秒播-49",
-            "type": 1,
-            "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "categories": [
-                "国产剧",
-                "纪录片",
-                "欧美剧",
-                "香港剧",
-                "动作片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "战争片",
-                "喜剧片",
-                "动画片",
-                "韩国剧",
-                "动漫",
-                "电影",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "台湾剧",
-                "国产动漫",
-                "日本动漫",
-                "欧美动漫",
-                "泰国剧",
-                "日剧",
-                "电影解说",
-                "奇幻片",
-                "灾难片",
-                "悬疑片",
-                "体育赛事",
-                "海外剧"
-            ]
-        },
-        {
-            "key": "索尼资源",
-            "name": "🚄秒播-索尼",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "战争片",
-                "国产剧",
-                "欧美剧",
-                "韩剧",
-                "日剧",
-                "港剧",
-                "台剧",
-                "泰剧",
-                "海外剧",
-                "纪录片",
-                "大陆综艺",
-                "日韩综艺",
-                "港台综艺",
-                "欧美综艺",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "动画片",
-                "港台动漫",
-                "海外动漫",
-                "演唱会",
-                "体育赛事",
-                "篮球",
-                "足球",
-                "斯诺克",
-                "影视解说"
-            ],
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "无限影视APP",
-            "name": "🚄秒播-无限",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.wxtv.net/api.php/app/",
-            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
-        },
-        {
-            "key": "鑫鑫影视",
-            "name": "🚄秒播-鑫鑫",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yingszj.xn--654a.cc/api.php/app/",
-            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
-        },
+
+ 
         {
             "key": "jszy",
             "name": "🚄秒播-极速",
@@ -1239,59 +1095,8 @@
             "ext": "https://yk.shaozeyy.com/api.php/app/",
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
         },
-        {
-            "key": "shaozeyy",
-            "name": "📺少泽影客",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://yk.shaozeyy.com/api.php/app/"
-        },
-        {
-            "key": "csp_干饭-玉",
-            "name": "🚄干饭┃2K",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/干饭影视.json"
-        },
-        {
-            "key": "土豪资源",
-            "name": "🚄土豪",
-            "type": 1,
-            "api": "https://www.tuhao.tv/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "内地剧",
-                "香港剧",
-                "欧美剧",
-                "韩剧",
-                "日剧",
-                "马泰剧",
-                "台湾剧",
-                "动画片",
-                "中国动漫",
-                "日本动漫",
-                "欧美动漫",
-                "战争片",
-                "动作片",
-                "科幻片",
-                "纪录片",
-                "爱情片",
-                "喜剧片",
-                "灾难片",
-                "悬疑片",
-                "大陆综艺",
-                "日韩综艺",
-                "港台综艺",
-                "欧美综艺"
-            ]
-        },
+   
+
         {
             "key": "圣城影视",
             "name": "🎦圣城",
@@ -1340,16 +1145,7 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQBiu/TVB云播.json",
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
         },
-        {
-            "key": "drpy_js_骚火电影",
-            "name": "🎦骚火",
-            "type": 3,
-            "api": "https://notabug.org/qdpdwjx/ziyuan/raw/master/libs/drpy2.js",
-            "ext": "https://notabug.org/qdpdwjx/ziyuan/raw/master/JS/saohuo.js",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1
-        },
+
         {
             "key": "cjzy_360资源",
             "name": "🧭卫士",
@@ -1386,34 +1182,8 @@
                 "港台综艺"
             ]
         },
-        {
-            "key": "耀协资源",
-            "name": "耀协4K",
-            "type": 0,
-            "api": "http://zyz.yxys.top/api.php/provide/vod/at/xml/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "雨哥哥影视",
-            "name": "雨哥哥影视(聚)💎",
-            "type": 1,
-            "api": "http://cj.baozi66.top:66/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "达达龟",
-            "name": "🐢哒哒龟",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "playerType": "1",
-            "ext": "./lib/dadagui.json"
-        },
+  
+   
         {
             "key": "csp_XYQHiker_达达龟",
             "name": "码上👓香-达达龟(XYQH)",
@@ -4319,16 +4089,7 @@
             "filterable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/APP影院.json"
         },
-                {
-            "key": "天天视频",
-            "name": "🚛天天┃4K",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ttsp.live/api.php/app/"
-        },
+            
         {
             "key": "天天影视",
             "name": "天天影视",
@@ -4353,21 +4114,10 @@
                 "分类url": "https://www.cdprop.com/movshow/{cateId}-{catePg}-.html"
         }
         },
-        	{"key":"开心",
-     "name":"🔥开心影院🔥",
-     "type":3,"api":"csp_XBPQ",
-     "searchable":1,"quickSearch":1,"filterable":1,
-      "ext":{"分类url": "http://www.ttkx.site:81/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-      "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$5"}},
-      
+        	
    
 
-      	   {"key":"阿布",
-     "name":"🔥阿布影视🔥",
-     "type":3,"api":"csp_XBPQ",
-     "searchable":1,"quickSearch":1,"filterable":1,
-      "ext":{"分类url": "https://www.abu22.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-      "分类": "动画片$101#电影$1#电视剧$2#综艺$3#动漫$4"}},
+      	
 
             {"key":"4K4K影视","name":"🔥4K4K影视🔥",
      "type":3,"api":"csp_XBPQ",
@@ -4375,37 +4125,7 @@
       "ext":{"分类url": "https://4k4k.live/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
       "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},	
 
-   
-                     {
-            "key": "落攻阁一（APP）",
-            "name": "🌙落攻阁",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "https://www.lggys.com/api.php/app/", "categories": [
-                "电影","电视剧","动漫","综艺","爽文短剧"]
-        },
-                {
-            "key": "🔥落攻阁xbpq",
-            "name": "🔥落攻阁xbpq",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/%E8%90%BD%E6%94%BB%E9%98%81.json"
-        },
-                        {
-            "key": "csp_XYQHiker_落攻阁",
-            "name": "落攻阁(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/落供阁XYQH.json",
-            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
-        },
+
                {
             "key": "空气屋一（APP）",
             "name": "🌙空气屋",
@@ -4413,20 +4133,6 @@
             "api": "csp_AppYsV2",
             "ext": "https://www.airfun.fun/api.php/app/", "categories": [
                 "电影","电视剧","动漫","综艺","短剧"]
-        },
-                       {
-            "key": "布衣一（APP）",
-            "name": "🌙布衣",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "https://byyy5.com/api.php/app/"
-        },
-                                {
-            "key": "明帝一（APP）",
-            "name": "🌙明帝",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "https://ys.md214.cn/api.php/app/"
         },
          
 {"key":"Auete","name":"🚌fan-🏝奥特┃无广","type":3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717839432492/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
@@ -4438,11 +4144,6 @@
 {"key":"毒舌影视","name":"🔴毒舌影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"醉卧东风祝您观影愉快","数组":"module-item&&</a>","副标题":"v-item-bottom\">&&</div>","图片":"https+://vres.a357899.cn+data-original=\"&&\"","导演":"导演:&&","演员":"演员:</div>&&</div>[替换:/>>空#更新>>更新]","影片年代":"首映:</div>&&</div>","简介":"class=\"detail-desc\">&&</p>","线路数组":"source-item\">&&</a>[排序:蓝光>超清]","线路标题":"<spanclass=\"source-item-label\">&&</span>+-+source-item-num\">&&</i>[替换:线路>>空]","搜索url":"https://www.dushe7.app/search?k={wd}&page={pg}","地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]","剧情":"[替换:伦理>>NETFLIX]","排序":"综合$1#最新$2#最热$3#评分$4","分类":"短剧$6","分类url":"https://www.dushe7.app/show/{cateId}-{class}-{area}--{year}-{by}-{catePg}.html"}},
 
 
-
-{"key":"drjs_我看书斋[书]","name":"雷蒙影视 | 👺我看书斋[书](DRPY)","type":3,"api":"https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/drpy/我看书斋[书].js"},
-
-
-{"key":"drjs_古风漫画","name":"雷蒙影视 | 👺古风漫画(DRPY)","type":3,"api":"https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/drpy/古风漫画.js"},
 
         {
             "key": "csp_XYQHiker_臭蛋蛋影视",
