@@ -363,7 +363,7 @@
             "name": "🌙555（APP）",
             "type": 3,
             "api": "csp_AppYsV2",
-            "ext": "https://fivezn.com/api.php/app/", "categories": [
+            "ext": "https://5scrn.com/api.php/app/", "categories": [
                 "电影","连续剧","动漫","综艺"]
         },
         //{"name":"🍀555影视","url":"https://www.xawqxh.net/api.php/app/"},
@@ -389,9 +389,9 @@
             "name": "🌙大米星球",
             "type": 3,
             "api": "csp_AppYsV2",
-            "ext": "https://damicin.com/api.php/app/", "categories": [
+            "ext": "https://ricevu.com/api.php/app/", "categories": [
                 "电影","连续剧","动漫","综艺"]
-        },
+        },//"ext": "https://damicin.com/api.php/app/
 
         {
             "key": "csp_XYQHiker_秋霞电影",
