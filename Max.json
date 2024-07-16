@@ -392,6 +392,14 @@
             "ext": "https://ricevu.com/api.php/app/", "categories": [
                 "电影","连续剧","动漫","综艺"]
         },//"ext": "https://damicin.com/api.php/app/
+                      {
+            "key": "大米一（APP）2",
+            "name": "🌙大米星球2",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "ext": "https://r5flix.com/api.php/app/", "categories": [
+                "电影","连续剧","动漫","综艺"]
+        },
 
         {
             "key": "csp_XYQHiker_秋霞电影",
