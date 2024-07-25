@@ -25,7 +25,7 @@
             "filterable": 1,
             "ext": "./lib/豆瓣.js"
         },
-        {"key":"豆瓣2","name":"📢X影视ww3k榜单u.nxog.top","type":3,"api":"csp_Douban","searchable":0},
+        {"key":"豆瓣2","name":"📢X影视ww3k榜单u.nxog.top","type":3,"api":"csp_Douban","jar":"https://gitlab.com/mfkdy/cy/-/raw/main/danmu.jar;md5;7b83c871a42078c5216a8dd2065691c0","searchable":0},
 {"key":"豆瓣1","name":"📢X影视w3k公告❤更新:7/25❤","type":3,"api":"csp_Notice","searchable":0,"changeable":
 0,"jar":"https://gitlab.com/mfkdy/cy/-/raw/main/danmu.jar;md5;7b83c871a42078c5216a8dd2065691c0","ext":
 "https://gitlab.com/mfkdy/cy-test/-/raw/main/index.htm"},
