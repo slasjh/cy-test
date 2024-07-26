@@ -4140,7 +4140,7 @@
             "name": "🌙空气屋",
             "type": 3,
             "api": "csp_AppYsV2",
-            "ext": "https://www.airfun.fun/api.php/app/", "categories": [
+            "ext": "https://www.airfun.fun/xgapp.php/v2/", "categories": [
                 "电影","电视剧","动漫","综艺","短剧"]
         },
          
