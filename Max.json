@@ -4297,7 +4297,16 @@
 {"key":"Aid","name":"🚌饭-🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8},
 "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721554716065/fan.txt;md5;71d846866f2ceb9666ba114e5963983f"},
 
-      
+             {
+            "key": "csp_zymao",
+            "name": "💥追影猫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/%E8%BF%BD%E5%BD%B1%E7%8C%AB.json"
+        }, 
 
 
 
