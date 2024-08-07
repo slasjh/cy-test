@@ -4303,7 +4303,7 @@
 
 {
             "key": "0728yt",
-            "name": "影探｜4K影院",
+            "name": "影探4K",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -4314,7 +4314,7 @@
 
 {
             "key": "JS-4K影院",
-            "name": "4K影院",
+            "name": "4K av",
             "type": 3,
             "api": "https://gitlab.com/mfkdy/vip/-/raw/main/js/lib/drpy2.min.js",
             "searchable": 1,
@@ -4325,7 +4325,7 @@
         },
         {
             "key": "JS-4K影院1",
-            "name": "4K影院1",
+            "name": "4K av1",
             "type": 3,
             "api": "https://gitlab.com/mfkdy/vip/-/raw/main/js/lib/drpy2.min.js",
             "searchable": 1,
@@ -4335,7 +4335,7 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/4KAV1.js"
         },
         {
-            "key": "07104K-剧院",
+            "key": "07104K-剧院1",
             "name": "4K4k影院",
             "type": 3,
             "api": "https://gitlab.com/mfkdy/vip/-/raw/main/js/lib/drpy2.min.js",
@@ -4343,7 +4343,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/lib/4K剧院.js"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/4K剧院.js"
         },
                   {"key":"4K4K影视","name":"🔥4K4K影院1",
      "type":3,"api":"csp_XBPQ",
@@ -4359,7 +4359,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/lib/4khdr.js"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/4khdr.js"
         },{
 			"key": "hipy_js_哔嘀影视[优]",
 			"name": "哔嘀影视",
@@ -4380,7 +4380,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/韩剧兔.json"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/韩剧兔.json"
     },
 
 
