@@ -4308,7 +4308,39 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/%E8%BF%BD%E5%BD%B1%E7%8C%AB.json"
         }, 
 
+{
+            "key": "0728yt",
+            "name": "影探｜4K影院",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": " http://cms-yt.lyyytv.cn/api.php/app/"
+        },
 
+{
+            "key": "JS",
+            "name": "甄嬛｜4K影院",
+            "type": 3,
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/4KAV.js"
+        },
+        {
+            "key": "07104K-剧院",
+            "name": "紫薇｜4K影院",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./lib/4K剧院.js"
+        },
 
 
 
@@ -4361,9 +4393,9 @@
             "name": "这是测试结尾",
             "type": 1,
             "api": "http://dytt996.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
             "playUrl": "json:https://gg.dytt996.com/quad.php?url="
         }
 
