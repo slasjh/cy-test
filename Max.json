@@ -4312,17 +4312,6 @@
             "ext": " http://cms-yt.lyyytv.cn/api.php/app/"
         },
 
-{
-            "key": "JS-4K影院",
-            "name": "4K av",
-            "type": 3,
-            "api": "https://gitlab.com/mfkdy/vip/-/raw/main/js/lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/4KAV.js"
-        },
         {
             "key": "JS-4K影院1",
             "name": "4K av1",
@@ -4338,7 +4327,7 @@
             "key": "07104K-剧院1",
             "name": "4K4k影院",
             "type": 3,
-            "api": "https://gitlab.com/mfkdy/vip/-/raw/main/js/lib/drpy2.min.js",
+            "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/HT/master/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -4354,7 +4343,7 @@
             "key": "4K-hdr",
             "name": "4K hdr",
             "type": 3,
-            "api": "https://gitlab.com/mfkdy/vip/-/raw/main/js/lib/drpy2.min.js",
+            "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/HT/master/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
