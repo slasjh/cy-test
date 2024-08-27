@@ -26,7 +26,7 @@
             "ext": "./lib/豆瓣.js"
         },
         {"key":"📺电视直播|JAR","name":"📺电视直播|JAR","type":3,"api":"csp_Live2Vod","searchable":0,"changeable":0,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/live/remote_live.json"},   
-                {"key":"📺电视|JAR","name":"📺直播|JAR","type":3,"api":"csp_Live2Vod","searchable":0,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/slasjh/18/main/XX/A.json"}, //https://mirror.ghproxy.com/https://raw.githubusercontent.com/slasjh/18/main/XX/A.json
+                {"key":"📺电视|JAR","name":"📺X直播|JAR","type":3,"api":"csp_Live2Vod","searchable":0,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/slasjh/18/main/XX/A.json"}, //https://mirror.ghproxy.com/https://raw.githubusercontent.com/slasjh/18/main/XX/A.json
 
         {"key":"🚑急救|JAR","name":"🚑急救|JAR","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},         
         {
