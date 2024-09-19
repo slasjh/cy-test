@@ -3,15 +3,7 @@
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "warningText": "X影视友情提示：不要相信视频中广告，爱护家人！！！",
     "lives": [
- //       {
-  //            "name": "live",
-  //            "type": 0,
-   //           "url": "./lib/live_stable.txt",
-  //            "playerType": 1,
-  //            "ua": "okhttp/3.12.13",
-  //            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
- //             "logo": "https://epg.112114.xyz/logo/{name}.png"
- //         },
+
                 {
             "name": "live2",
             "type": 0,
