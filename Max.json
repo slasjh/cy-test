@@ -159,6 +159,59 @@
             "filterable": 1,
             "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/ddys.js"
         },
+                 {
+      "key": "💓 内测7喜 | JAR",
+      "name": "💓 内测7喜 | JAR",
+      "type": 3,
+      "api": "csp_QxiTv",
+      "searchable": 1,
+      "changeable": 0, "jar": "https://www.lintech.work/static/source/custom_spider_20241006.tms;md5;4a9a998024863a5c9c234cd51068e0a1",
+      "ext": {}
+    },
+    {
+      "key": "💓 内测低端 | JAR",
+      "name": "💓 内测低端 | JAR",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "filterable": 0,"jar": "https://www.lintech.work/static/source/custom_spider_20241006.tms;md5;4a9a998024863a5c9c234cd51068e0a1",
+      "ext": {
+        "site": "https://ddys.info"
+      }
+    },
+    {
+      "key": "💓 内测厂长 | JAR",
+      "name": "💓 内测厂长 | JAR",
+      "type": 3,
+      "api": "csp_ChangZhang",
+      "searchable": "1",
+      "filterable": "0","jar": "https://www.lintech.work/static/source/custom_spider_20241006.tms;md5;4a9a998024863a5c9c234cd51068e0a1",
+      "changeable": 0,
+      "ext": "https://www.czzy.site/"
+    },
+    {
+      "key": "💓 旋风 | JAR",
+      "name": "💓 旋风 | JAR",
+      "type": 3,
+      "api": "csp_XuanFeng",
+      "searchable": 1,
+      "filterable": 1,"jar": "https://www.lintech.work/static/source/custom_spider_20241006.tms;md5;4a9a998024863a5c9c234cd51068e0a1",
+      "ext": {
+        "pure": false
+      }
+    },
+    {
+      "key": "💓 在线 | JAR",
+      "name": "💓 在线 | JAR",
+      "type": 3,
+      "api": "csp_Zxzj","jar": "https://www.lintech.work/static/source/custom_spider_20241006.tms;md5;4a9a998024863a5c9c234cd51068e0a1",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": {
+        "siteUrl": "http://www.zxzj.today",
+        "pure": false
+      }
+    },
         {
             "key": "drpy_js_磁力熊搜索",
             "name": "搜索 | 磁力熊[js]",
@@ -368,7 +421,7 @@
             "name": "🌙555（APP）",
             "type": 3,
             "api": "csp_AppYsV2",
-            "ext": "https://5scrn.com/api.php/app/", "categories": [
+            "ext": "https://wuwuweb.com/api.php/app/", "categories": [
                 "电影","连续剧","动漫","综艺"]
         },
         //{"name":"🍀555影视","url":"https://www.xawqxh.net/api.php/app/"},
@@ -396,15 +449,14 @@
             "api": "csp_AppYsV2",
             "ext": "https://ricevu.com/api.php/app/", "categories": [
                 "电影","连续剧","动漫","综艺"]
-        },//"ext": "https://damicin.com/api.php/app/
-                      {
+        },//导航https://dmdy.vip/  dm1x7a3.store  +dm4z9y2.shop +dm7v3m1.online
+              {
             "key": "大米一（APP）2",
             "name": "🌙大米星球2",
             "type": 3,
             "api": "csp_AppYsV2",
-            "ext": "https://r5flix.com/api.php/app/", "categories": [
-                "电影","连续剧","动漫","综艺"]
-        },
+            "ext": "https://dm1x7a3.store/api.php/app/", "categories": [
+                "电影","连续剧","动漫","综艺"] },
 
         {
             "key": "csp_XYQHiker_秋霞电影",
@@ -566,15 +618,19 @@
             "filterable": 1,
             "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4",
             "ext": {
-                "图片": "data-original=\"&&\"[替换:/vod1>>https://61.147.93.252:15002/vod1]",
-                //https://vres.a357899.cn/vod1
-                "线路数组": "<a&&</a>[排序:独家>蓝光8>FF线路>蓝光7>蓝光2>蓝光2-1>蓝光2-2>XL线路>HN线路>SB线路]",
-                "线路标题": "source-item-label\">&&</span>",
-                "分类url": "https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}-3-{catePg}.html",
-                "分类": "电视剧$2#电影$1#动漫$3#综艺$4#短剧$6"
-            },
-            "搜索url": "https://www.keke6.app/search?k={wd}"
-        },
+  "分类url": "https://www.keke13.com:51111/show/{cateId}-{class}-{area}--{year}-{by}-{catePg}.html;;ar1",
+    "分类": "电影&剧集&动漫&综艺&短剧",
+    "分类值": "1&2&3&4&6",
+    "副标题": "<div class=\"v-item-bottom\">&&</div>",
+    "数组": "class=\"module-item\"&&</a",
+    "图片": "https+://61.147.93.252:15002+data-original=\"&&\"",
+    "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+    "线路数组": "source-item-label\">&&</span>",
+    "线路标题": "&&",
+    "导演": "导演:&&</div>",
+    "主演": "主演:&&</div>",
+    "简介": "<p>&&</p>"
+        }},
         {
             "key": "csp_XBPQ_可可",
             "name": "可可影视",
@@ -588,7 +644,8 @@
                 "分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
                 "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6",
                 "主页url": "https://www.keke2.app",
-                "图片": "data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]",
+                 "图片": "https+://61.147.93.252:15002+data-original=\"&&\"",  
+              //  "图片": "data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]",
                 "搜索url": "https://www.keke2.app/search?k={wd}"
             }
         },
@@ -624,7 +681,8 @@
                 "分类url": "https://www.ncat3.com:51111/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
                 "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6",
                 "主页url": "https://www.ncat3.com:51111",
-                "图片": "data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]",
+                   "图片": "https+://61.147.93.252:15002+data-original=\"&&\"",
+               // "图片": "data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]",
                 "搜索url": "https://www.ncat3.com:51111/search?k={wd}"
             },
             "jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4"
@@ -4435,6 +4493,8 @@
             "filterable": 1,
             "ext": " http://43.248.100.147:9891/api.php/app/"
         },
+
+
 
 
 
