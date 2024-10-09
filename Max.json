@@ -2182,6 +2182,50 @@
                 "欧美动漫",
                 "日本动漫"
             ]
+        },//https://api.kuaifan.tv/api.php/provide/vod?
+
+         {
+            "key": "haiwaikan",
+            "name": "海外看",
+            "type": 1,
+            "api": "http://127.0.0.1:10079/p/0/proxy/https://haiwaikan.com/api.php/provide/vod?",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "日本动漫",
+                "国产动漫",
+                "欧美动漫",
+                "国产剧",
+                "韩剧",
+                "日剧",
+                "台剧",
+                "泰剧",
+                "港剧",
+                "欧美剧",
+                "动画电影",
+                "韩国综艺",
+                "国产综艺",
+                "日本综艺",
+                "欧美综艺",
+                "冒险片",
+                "剧情片",
+                "动作片",
+                "同性片",
+                "喜剧片",
+                "奇幻片",
+                "恐怖片",
+                "悬疑片",
+                "惊悚片",
+                "战争片",
+                "歌舞片",
+                "灾难片",
+                "爱情片",
+                "犯罪片",
+                "科幻片",
+                "纪录片",
+                "经典片"
+            ]
         },
         {
             "key": "暴風",
@@ -2221,10 +2265,10 @@
                 "日韩综艺",
                 "欧美综艺"
             ]
-        },//"api": "https://bfzyapi.com/api.php/provide/vod/at/xml""api": "http://by.bfzyapi.com/api.php/provide/vod/at/xml"  "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+        },//"api": "https://bfzyapi.com/api.php/provide/vod/at/xml""api": "http://by.bfzyapi.com/api.php/provide/vod/at/xml"  "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",  https://bfzyapi.com/api.php/provide/vod?
 
         
-       // {   "key": "csp_XBPQ_ 暴风资源网",  "name": "💢暴风资源网",   "type": 3,"api": "csp_XBPQ", "searchable": 1,  "quickSearch": 1,  "filterable": 1, "ext": "./lib/暴风资源网.json"},
+
         {
             "key": "ec973ecbef6f55c8c9dbbf39e9fa6ff1",
             "name": "㉕熊掌",
@@ -2395,10 +2439,10 @@
         },
         {
             "key": "非凡",
-            "name": "🍉非凡资源（无法访问）",
+            "name": "🍉非凡资源",
             "type": 0,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-            //"api": "https://bfzyapi.com/api.php/provide/vod/at/xml""api": "http://by.bfzyapi.com/api.php/provide/vod/at/xml"  "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/?",
+            //"api": "https://cj.ffzyapi.com/api.php/provide/vod/at/xml"
             "searchable": 1,
             "changeable": 1,
             "categories": [
