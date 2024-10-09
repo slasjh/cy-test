@@ -4810,8 +4810,8 @@
       "key": "drpy_黑狐",
       "name": "蒙->🎃黑狐",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/refs/heads/master/lib/drpy2.min.js",
-      "ext": "https://gitlab.com/mfkdy/cy/-/blob/main/drpy/黑狐影院.js"
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/黑狐影院.js"
     },         
 
 
