@@ -2318,6 +2318,16 @@
             ]
         },
         {
+            "key": "飞速资源2",
+            "name": "飞速资源",
+            "type": 1,
+            "api": "http://fszy1.com/api.php/provide/vod/?",
+            "playUrl": "",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "量子",
             "name": "🥑量子资源*4K",
             "type": 0,
