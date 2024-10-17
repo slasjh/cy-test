@@ -29,6 +29,23 @@
         {"key":"📺电视直播|JAR","name":"📺电视直播|JAR","type":3,"api":"csp_Live2Vod","searchable":0,"changeable":0,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/live/remote_live.json"},   
                 {"key":"📺电视|JAR","name":"📺X直播|JAR","type":3,"api":"csp_Live2Vod","searchable":0,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/slasjh/18/main/XX/A.json"}, 
                                {"key":"📺电视2|JAR","name":"📺X2直播|JAR","type":3,"api":"csp_Live2Vod","searchable":0,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/slasjh/18/main/XX/A2.json"}, 
+                                   {
+      "key": "drpy_好趣网",
+      "name": "📺好趣┃直播",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/好趣网.js"
+    },
+        {
+      "key": "直播转点播",
+      "name": "📺电视┃直播",
+      "type": 3,
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 0,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/live2mv.js",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/zb.json"
+    },
 
         {"key":"🚑急救|JAR","name":"🚑急救|JAR","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},         
         {
@@ -2016,6 +2033,13 @@
       "header": {
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
       }
+    },
+        {
+      "key": "XBPQ_黑木耳",
+      "name": "♠️黑木耳┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/XBPQ/heimuer.json"
     },
         {
       "key": "zycj_快云",
