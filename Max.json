@@ -1,7 +1,7 @@
 {
     "spider": "https://gitlab.com/mfkdy/cy/-/raw/main/custom_spider_20240420_2_1.tms;md5;3eaf4ee7ee27958932145d5608fe34d1",
    // "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "wallpaper": "http://156.238.251.122:60/api.php",
+    "wallpaper": "http://156.238.251.122:60/sh/api.php",
     "warningText": "X影视友情提示：不要相信视频中广告，爱护家人！！！",
     "lives": [
 
