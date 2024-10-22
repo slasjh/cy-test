@@ -344,7 +344,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
+           // "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
             "ext": "./lib/在线之家.json"
         },
 
@@ -356,8 +356,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "./lib/影视工场.json"
-           // "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+            "ext": "./lib/影视工场.json",
+            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
         },
 
         {
@@ -368,7 +368,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-           // "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
+           "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
             "ext": "./lib/奈飞中文.json"
         },
         {
@@ -379,7 +379,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-          //  "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
+           "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
             "ext": "./lib/鸭奈飞影视.json"
         },
 
@@ -1149,7 +1149,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./XYQ_0430_6.jar;md5;c9b78bcf2c5727f9e13cd7adb9678923",
+            //"jar": "./XYQ_0430_6.jar;md5;c9b78bcf2c5727f9e13cd7adb9678923",
             "ext": "./lib/电影先生.json"
         },
         
